@@ -25,7 +25,7 @@ INDICATORS = {
     "NE.EXP.GNFS.CD": "exports_goods_services_current_usd",
 }
 
-COUNTRIES = ["JPN", "AUS"]
+COUNTRIES = ["JPN", "AUS", "CHN"]  # CHN added as a control for the post-2001 demand shock
 START_YEAR, END_YEAR = 1960, 2024
 
 
@@ -34,7 +34,15 @@ def fetch_indicator(country: str, indicator: str) -> pd.DataFrame:
         f"https://api.worldbank.org/v2/country/{country}/indicator/{indicator}"
         f"?format=json&date={START_YEAR}:{END_YEAR}&per_page=500"
     )
-    r = requests.get(url, timeout=60)
+    import time
+    for attempt in range(4):
+        r = requests.get(url, timeout=60)
+        if r.status_code == 200:
+            break
+        if r.status_code in (502, 503, 504):
+            time.sleep(2 + attempt * 2)
+            continue
+        r.raise_for_status()
     r.raise_for_status()
     payload = r.json()
     if len(payload) < 2 or payload[1] is None:

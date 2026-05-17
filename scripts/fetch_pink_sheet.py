@@ -29,6 +29,8 @@ LOCAL_XLSX = RAW_DIR / "pink_sheet.xlsx"
 
 # Column index -> friendly name (from Pink Sheet row 6)
 COMMODITIES = {
+    1: "crude_oil_avg_usd_per_bbl",
+    2: "crude_oil_brent_usd_per_bbl",
     5: "coal_australian_usd_per_mt",
     9: "lng_japan_usd_per_mmbtu",
     61: "iron_ore_cfr_spot_usd_per_dmtu",
