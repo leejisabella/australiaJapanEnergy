@@ -1,0 +1,7 @@
+fy,n_approvals,agri_aud_m,finance_aud_m,manufacturing_elec_gas_aud_m,mineral_exp_dev_aud_m,real_estate_aud_m,services_aud_m,total_aud_m,source_pdf,table_ref
+2014-15,152,0.0,17.0,135.0,766.0,774.0,6965.0,8658.0,firb_2014-15_chap2.pdf,Table 2.12 (hand-coded)
+2016-17,113,12.2,0.0,1150.3,109.5,3199.6,937.5,5409.1,firb_2016-17.pdf,Table 4.13
+2017-18,136,192.6,26.1,109.8,525.8,2205.5,1635.2,4695.1,firb_2017-18_05-chap3.pdf,Table 3.14
+2018-19,125,57.8,4117.0,2509.4,3057.7,3809.7,1515.0,15066.7,firb_2018-19.pdf,Table 3.14
+2019-20,129,197.8,1334.0,17487.9,226.7,1059.9,1774.9,22081.1,firb_2019-20.pdf,Table 3.17
+2020-21,206,81.4,128.4,407.6,78.3,2646.2,1756.7,5098.6,firb_2020-21.pdf,Table 3.17
