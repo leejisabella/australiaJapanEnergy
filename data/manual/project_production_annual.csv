@@ -1,0 +1,9 @@
+project,year,mtpa_production,japan_share_of_output_pct,verification_status,source_notes
+Mount Newman,1969,15.0,,approximate,"Nameplate initial Mtpa per coal_iron_ore_projects_aus_jpn.csv. Actual 1969 production was a partial-year ramp; use 15 Mtpa as planned full-year capacity. Source: BHP 40-yr release."
+Robe River,1972,15.0,,approximate,"Nameplate initial Mtpa per coal_iron_ore_projects_aus_jpn.csv. Source: Rio Tinto 50-yr release."
+Goonyella (CQCA/BMA),1971,5.0,,approximate,"Nameplate initial Mtpa per coal_iron_ore_projects_aus_jpn.csv. Source: NS Energy Business Goonyella Riverside."
+Peak Downs (CQCA/BMA),1972,8.0,,approximate,"Nameplate initial Mtpa per coal_iron_ore_projects_aus_jpn.csv. Source: Mining Monthly BMA profile."
+Saraji (CQCA/BMA),1974,5.0,,approximate,"Nameplate initial Mtpa per coal_iron_ore_projects_aus_jpn.csv. Source: Wikipedia Saraji."
+Bengalla,1999,8.6,,approximate,"Nameplate initial Mtpa per coal_iron_ore_projects_aus_jpn.csv. Source: Wesfarmers history."
+Ulan,1986,5.0,,approximate,"Modern open-cut nameplate. Source: Glencore Ulan page."
+Hail Creek,2003,5.5,,approximate,"Nameplate initial Mtpa per coal_iron_ore_projects_aus_jpn.csv. Source: Wikipedia Hail Creek."

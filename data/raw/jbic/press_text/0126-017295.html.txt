@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="">
+<meta name="keywords" content="">
+  <title>JBIC Signs MOU with State of Western Australia | JBIC Japan Bank for International Cooperation</title>
+<link rel="stylesheet" href="/ja/common/css/aly.css">
+<link rel="stylesheet" href="/en/common/css/format.css">
+<link rel="stylesheet" href="/en/common/css/common_pc.css">
+<link rel="stylesheet" href="/en/common/css/common_sp.css">
+<link rel="stylesheet" href="/en/common/css/contents.css">
+<link rel="stylesheet" href="/en/common/css/contents_pc.css">
+<link rel="stylesheet" href="/en/common/css/contents_sp.css">
+<link rel="stylesheet" href="/en/common/css/lib.css">
+<link rel="stylesheet" href="/ja/common/css/assets_common.css">
+<link rel="stylesheet" href="/en/common/css/print.css">
+<!-- jbic.go.jp に対する OneTrust Cookie 同意通知の始点 -->
+<script type="text/javascript" src="https://cdn-au.onetrust.com/consent/bbd2b645-9685-4327-ad62-ea781591cc98/OtAutoBlock.js" ></script>
+<script src="https://cdn-au.onetrust.com/scripttemplates/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" data-domain-script="bbd2b645-9685-4327-ad62-ea781591cc98" ></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- jbic.go.jp に対する OneTrust Cookie 同意通知の終点 -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HN7XHDKL34"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HN7XHDKL34');
+</script>
+</head>
+<body class="c2 press">
+  <aside class="skip"><a href="#main_content">Skip to main content.</a></aside>
+  <noscript>When using this site, please try to ensure JavaScripts are enabled.</noscript>
+  <header>
+    <div class="header_inner">
+    <div class="title">
+      <p class="logo"><a href="/en/index.html"><img alt="Japan Bank for International Cooperation" width="274" height="46" src="/image/image/000000091.png" /><img alt="Supporting Your Global Challenges" width="236" height="46" src="/image/image/000000064.png" /></a></p>
+      <ul class="link">
+        <li><a href="/en/index.html">Home</a></li>
+        <li><a href="/en/sitemap.html">Sitemap</a></li>
+        <li><a href="/en/about/organization.html?id=access_map">Access</a></li>
+        <li><a href="/en/languages.html">Other Languages</a></li>
+      </ul>
+      <ul class="other_link">
+        <li><a href="/en/languages.html">Other Languages</a></li>
+        <li class="bg__green"><a href="javascript:e2j();">Japanese</a></li>
+      </ul>
+    </div>
+    <!-- /.title -->
+    <div class="sp_header">
+      <p class="logo"><a href="/en/index.html"><img alt="Japan Bank for International Cooperation" src="/image/image/000000091.png" /></a></p>
+      <p class="sp_btn"><img class="open" alt="Menu" src="/image/image/000000092.png" /><img class="close" alt="Close" src="/image/image/000000093.png" /></p>
+      <ul>
+        <li><a href="javascript:e2j();"><img alt="JP" src="/image/image/000000089.png" /></a></li>
+        <li><img class="open_s" alt="Search" src="/image/image/000000061.png" /><img class="close_s" alt="Close" src="/image/image/000000062.png" /></li>
+      </ul>
+    </div>
+    <!-- /.sp_header -->
+    <script language="JavaScript">// <![CDATA[
+function e2j() {
+	var path_me = window.location.href;
+	var tgt_url=path_me.replace('/en/','/ja/');
+	if(tgt_url.indexOf('/business-areas/environment/projects/page.html') > -1){
+		tgt_url=tgt_url.replace('lang=en','lang=ja');
+	} else if(tgt_url.indexOf('/secure/form/wcfSecure/finish') > -1){
+		tgt_url='/ja/index.html';
+        } else if(tgt_url.indexOf('/form/index.php?f=request_en.html') > -1){
+                tgt_url='/form/index.php?f=request.html';
+        } else if(tgt_url.indexOf('/form/index.php?f=smes_en.html') > -1){
+                tgt_url='/form/index.php?f=smes.html';
+        } else if(tgt_url.indexOf('/form/index.php?f=feedback_en.html') > -1){
+                tgt_url='/form/index.php?f=feedback.html';
+        } else if(tgt_url.indexOf('/form/index.php?f=environment2_en.html') > -1){
+                tgt_url='/form/index.php?f=environment2.html';
+        } else if(tgt_url.indexOf('/form/index.php?f=environment_en.html') > -1){
+                let url = new URL(path_me);
+                let params = url.searchParams;
+                tgt_url='/form/index.php?f=environment.html'
+                 + '&projectNumber=' + params.get('projectNumber')
+                 + '&projectName=' + params.get('projectNameAlt')
+                 + '&place=' + params.get('placeAlt')
+                 + '&department=' + params.get('department')
+                 + '&file=無'
+                 + '&projectNameAlt=' + params.get('projectName')
+                 + '&placeAlt=' + params.get('place')
+                 ;
+        } else if(tgt_url.indexOf('/form/index.php?f=ir_en.html') > -1){
+                tgt_url='/form/index.php?f=ir.html';
+        } else if(tgt_url.indexOf('/form/index.php?f=disagree_en.html') > -1){
+                tgt_url='/form/index.php?f=disagree.html';
+	}
+	$.support.cors = true;
+	$.ajax({
+		  async		: false
+		, type		: 'GET'
+		, url		: tgt_url
+		, dataType	: 'html'
+	})
+	.done(function(result) {
+		location.href = tgt_url;
+	})
+	.fail(function(result) {
+		if(path_me.indexOf('/en/information/press/') > -1){
+			var none_url='/ja/information/press/index.html';
+		} else if(path_me.indexOf('/en/information/news/') > -1){
+			var none_url='/ja/information/news/index.html';
+		} else if(path_me.indexOf('/en/information/topics/') > -1){
+			var none_url='/ja/information/topics/index.html';
+		} else if(path_me.indexOf('/en/information/today/') > -1){
+			var none_url='/ja/information/today/index.html';
+		} else if(path_me.indexOf('/en/information/reference/') > -1){
+			var none_url='/ja/information/reference/index.html';
+		} else if(path_me.indexOf('/en/information/interview/') > -1){
+			var none_url='/ja/information/interview/index.html';
+		} else if(path_me.indexOf('/en/information/') > -1){
+			var none_url='/ja/information/index.html';
+		} else if(path_me.indexOf('/en/about/') > -1){
+			var none_url='/ja/about/index.html';
+		} else if(path_me.indexOf('/en/support-menu/') > -1){
+			var none_url='/ja/support-menu/index.html';
+		} else if(path_me.indexOf('/en/business-areas/') > -1){
+			var none_url='/ja/business-areas/index.html';
+		} else if(path_me.indexOf('/en/ir/') > -1){
+			var none_url='/ja/ir/index.html';
+		} else {
+			var none_url='/ja/index.html';
+		}
+		location.href = none_url;
+	});
+}
+// ]] >
+// ]] ></script>
+    <div class="search">
+      <p><a href="https://bizsearch-asp.accelatech.com/bizasp/index.php?q=&corpId=atc220002&en=&hits=20&sg=1&ds=1"><img alt="Search" width="38" height="38" src="/image/image/000000061.png" /></a></p>
+    </div>
+    <!-- /.search -->
+    <div class="search_window">
+      <aside>
+        <search role="search">
+        <form id="bizsearchAspForm" name="AccelaBizSearchASPForm" action="https://bizsearch-asp.accelatech.com/bizasp/index.php" method="get">
+          <label class="screen-reader-text" for="bizsearchAspQuery">JBIC Site Search</label>
+          <input id="bizsearchAspQuery" name="q" type="text" maxlength="100" value="" autocomplete="off" />
+          <input id="bizsearchAspCorpId" name="corpId" type="hidden" value="atc220002" />
+          <input name="en" type="hidden" value="" />
+          <input name="hits" type="hidden" value="20" />
+          <input name="sg" type="hidden" value="1" />
+          <input name="ds" type="hidden" value="1" />
+          <input id="searchsubmit" type="submit" value="Search" />
+        </form>
+        <dl>
+          <dt>Most searched keywords</dt>
+          <dd>
+            <ul>
+              <li><a href="https://bizsearch-asp.accelatech.com/bizsearch_asp/search?q=&corpId=atc220002&en=&hits=20&sg=1&facet1=num1_2%3A-1%3Ad%3Af+str1_1%3A-1%3Ad%3Af%3A6+str1_2%3A-1%3Ad%3Af+str1_3%3A-1%3Ad%3Af+str1_4%3A-1%3Ad%3Af+str1_5%3A-1%3Ad%3Af&t[]=1&sort1=mdate%3AD">JBIC Today</a></li>
+              <li><a href="https://bizsearch-asp.accelatech.com/bizasp/index.php?q=GREEN&corpId=atc220002&en=&hits=20&sg=1&ds=1">GREEN</a></li>
+              <li><a href="https://bizsearch-asp.accelatech.com/bizasp/index.php?q=Sustainability&corpId=atc220002&en=&hits=20&sg=1&ds=1">Sustainability</a></li>
+              <li><a href="https://bizsearch-asp.accelatech.com/bizasp/index.php?q=Green+Bonds&corpId=atc220002&en=&hits=20&sg=1&ds=1">Green Bonds</a></li>
+            </ul>
+          </dd>
+        </dl>
+        </search>
+        <p class="search_close"><a href="/close/">Close</a></p>
+      </aside>
+    </div>
+    <!-- /.search_window -->
+    <div class="sp_search">
+      <aside>
+        <search role="search">
+        <form id="bizsearchAspForm2" name="AccelaBizSearchASPForm" action="https://bizsearch-asp.accelatech.com/bizasp/index.php" method="get">
+          <label class="screen-reader-text" for="bizsearchAspQuery2">JBIC Site Search</label>
+          <input id="bizsearchAspQuery2" name="q" type="text" maxlength="100" value="" autocomplete="off" />
+          <input id="bizsearchAspCorpId2" name="corpId" type="hidden" value="atc220002" />
+          <input name="en" type="hidden" value="" />
+          <input name="hits" type="hidden" value="20" />
+          <input name="sg" type="hidden" value="1" />
+          <input name="ds" type="hidden" value="1" />
+          <input id="searchsubmit2" type="submit" value="Search" />
+        </form>
+        <dl>
+          <dt>Most searched keywords</dt>
+          <dd>
+            <ul>
+              <li><a href="https://bizsearch-asp.accelatech.com/bizsearch_asp/search?q=&corpId=atc220002&en=&hits=20&sg=1&facet1=num1_2%3A-1%3Ad%3Af+str1_1%3A-1%3Ad%3Af%3A6+str1_2%3A-1%3Ad%3Af+str1_3%3A-1%3Ad%3Af+str1_4%3A-1%3Ad%3Af+str1_5%3A-1%3Ad%3Af&t[]=1&sort1=mdate%3AD">JBIC Today</a></li>
+              <li><a href="https://bizsearch-asp.accelatech.com/bizasp/index.php?q=GREEN&corpId=atc220002&en=&hits=20&sg=1&ds=1">GREEN</a></li>
+              <li><a href="https://bizsearch-asp.accelatech.com/bizasp/index.php?q=Sustainability&corpId=atc220002&en=&hits=20&sg=1&ds=1">Sustainability</a></li>
+              <li><a href="https://bizsearch-asp.accelatech.com/bizasp/index.php?q=Green+Bonds&corpId=atc220002&en=&hits=20&sg=1&ds=1">Green Bonds</a></li>
+            </ul>
+          </dd>
+        </dl>
+        </search>
+        <p class="search_close"><a href="/close/">Close</a></p>
+      </aside>
+    </div>
+    <!-- /.sp_search -->
+
+<div class="gnavi">
+  <dl>
+    <dt><a href="/en/about/index.html">About JBIC</a></dt>
+    <dd>
+      <dl>
+        <dt><a href="/en/about/index.html">About JBIC</a></dt>
+        <dd>
+          <p>This page introduces information on JBIC's role and organization.</p>
+          <ul>
+            <li><a href="/en/about/role-function.html">Role and Function</a></li>
+            <li><a href="/en/about/message.html">Message from the Governor</a></li>
+            <li><a href="/en/about/organization.html">Profile</a></li>
+            <li><a href="/en/about/plan.html">Medium-Term Business Plan</a></li>
+            <li><a href="/en/about/governance.html">Corporate Governance</a></li>
+            <li><a href="/en/about/introduction.html">Introduction of the Finance Groups</a></li>
+            <li><a href="/en/about/index.html?id=office">Domestic and Overseas Network</a></li>
+            <li><a href="/en/about/video.html">JBIC Video</a></li>
+          </ul>
+        </dd>
+      </dl>
+      <p><a href="/close/">Close</a></p>
+    </dd>
+    <dt><a href="/en/support-menu/index.html">Support Menu</a></dt>
+    <dd>
+      <dl>
+        <dt><a href="/en/support-menu/index.html">Support Menu</a></dt>
+        <dd>
+          <p>JBIC offers a range of financial products and other services to our clients.</p>
+          <ul>
+            <li><a href="/en/support-menu/export.html">Export Loans</a></li>
+            <li><a href="/en/support-menu/import.html">Import Loans</a></li>
+            <li><a href="/en/support-menu/investment.html">Overseas Investment Loans</a></li>
+            <li><a href="/en/support-menu/untied-loan.html">Untied Loans</a></li>
+            <li><a href="/en/support-menu/capital.html">Equity Investment</a></li>
+            <li><a href="/en/support-menu/guarantee.html">Guarantees</a></li>
+            <li><a href="/en/support-menu/bridge.html">Bridge Loans</a></li>
+            <li><a href="/en/support-menu/loans.html">Acquisition of Loan Assets and Public and Corporate Bonds</a></li>
+            <li><a href="/en/support-menu/research.html">Research and Studies</a></li>
+            <li><a href="/en/support-menu/securitization.html">Securitization and Other Financial Instruments</a></li>
+            <li><a href="/en/support-menu/bank-export.html">List of Export TSLs</a></li>
+            <li><a href="/en/support-menu/bank-invest.html">List of Investment TSLs</a></li>
+            <li><a href="/en/support-menu/bank-develop.html">List of Untied TSLs</a></li>
+          </ul>
+        </dd>
+      </dl>
+      <p><a href="/close/">Close</a></p>
+    </dd>
+    <dt><a href="/en/business-areas/index.html">Business Areas</a></dt>
+    <dd>
+      <dl>
+        <dt><a href="/en/business-areas/index.html">Business Areas</a></dt>
+        <dd>
+          <p>Information about JBIC's activities in each business area and its efforts for environmental conservation.</p>
+          <ul>
+            <li><a href="/en/business-areas/sectors/resources.html">Energy and Natural Resources</a></li>
+            <li><a href="/en/business-areas/sectors/infrastructure.html">Infrastructure</a></li>
+            <li><a href="/en/business-areas/sectors/industry.html">Manufacturing and Other Industries</a></li>
+            <li><a href="/en/business-areas/sectors/smes.html">Mid-tier Enterprises and SMEs</a></li>
+            <li><a href="/en/business-areas/startup.html">Startup Investments</a></li>
+            <li><a href="/en/business-areas/sectors/environment.html">Environment</a></li>
+            <li><a href="/en/business-areas/environment.html">Environmental Guidelines</a></li>
+            <li><a href="/en/business-areas/index.html?id=jisseki">Records of Various Financing Efforts</a></li>
+            <li><a href="/en/business-areas/result-green.html">Business Performance of the GREEN Operations</a></li>
+            <li><a href="/en/business-areas/result-abmi.html">Asian Bond Markets Initiative (ABMI)</a></li>
+          </ul>
+        </dd>
+      </dl>
+      <p><a href="/close/">Close</a></p>
+    </dd>
+    <dt><a href="/en/information/index.html">Public Information</a></dt>
+    <dd>
+      <dl>
+        <dt><a href="/en/information/index.html">Public Information</a></dt>
+        <dd>
+          <p>Various reports compiled and contributed by JBIC</p>
+          <ul>
+            <li><a href="/en/information/news/index.html">Announcements</a></li>
+            <li><a href="/en/information/topics/index.html">Topics</a></li>
+            <li><a href="/en/information/today/index.html">JBIC Today</a></li>
+            <li><a href="/en/information/annual-report.html">Integrated Report</a></li>
+            <li><a href="/en/information/research.html">Survey Report on Overseas Business Operations</a></li>
+            <li><a href="/en/information/reference/index.html">Reports</a></li>
+            <li><a href="/en/information/interview/index.html">Interviews with JBIC Employees</a></li>
+          </ul>
+        </dd>
+      </dl>
+      <p><a href="/close/">Close</a></p>
+    </dd>
+    <dt><a href="/en/sustainability.html">Sustainability</a></dt>
+    <dd>
+      <dl>
+        <dt><a href="/en/sustainability.html">Sustainability</a></dt>
+        <dd>
+          <p>JBIC's Sustainability Initiatives</p>
+          <ul>
+            <li><a href="/en/sustainability/message.html">Message from the Governor</a></li>
+            <li><a href="/en/sustainability/environment.html">Environment</a></li>
+            <li><a href="/en/sustainability/social.html">Social</a></li>
+            <li><a href="/en/sustainability/governance.html">Governance</a></li>
+          </ul>
+        </dd>
+      </dl>
+      <p><a href="/close/">Close</a></p>
+    </dd>
+    <dt><a href="/en/information/press/index.html">Press Releases</a></dt>
+    <dd>
+      <dl>
+        <dt><a href="/en/information/press/index.html">Press Releases</a></dt>
+        <dd>
+          <p>Press-release-related web pages.</p>
+          <ul>
+            <li><a href="/en/information/press/index.html">Press Releases</a></li>
+            <li><a href="https://bizsearch-asp.accelatech.com/bizasp/index.php?corpId=atc220002&en=&layout=1&hits=20&sg=1&ds=1&facet1=num1_2%3A-1%3Ad%3Af+str1_2%3A-1%3Ad%3Af+str1_3%3A-1%3Ad%3Af+str1_4%3A-1%3Ad%3Af+str1_5%3A-1%3Ad%3Af+str1_1%3A-1%3Ad%3Af%3A1&q=">Search of Press Releases</a></li>
+          </ul>
+        </dd>
+      </dl>
+      <p><a href="/close/">Close</a></p>
+    </dd>
+    <dt><a href="/en/ir/index.html">Investor Relations</a></dt>
+    <dd>
+      <dl>
+        <dt><a href="/en/ir/index.html">Investor Relations</a></dt>
+        <dd>
+          <p>This page introduces information on JBIC's investor relations.</p>
+          <ul>
+            <li><a href="/en/ir/statements.html">Financial Statements</a></li>
+            <li><a href="/en/ir/list-jfc.html">Financial Statements, JFC</a></li>
+            <li><a href="/en/ir/list-exjbic.html">Financial Statements, former JBIC</a></li>
+            <li><a href="/en/ir/condition.html">Ratings</a></li>
+            <li><a href="/en/ir/government.html">Government-Guaranteed Bonds in International Markets</a></li>
+            <li><a href="/en/ir/greenbond.html">Green Bonds</a></li>
+          </ul>
+        </dd>
+      </dl>
+      <p><a href="/close/">Close</a></p>
+    </dd>
+  </dl>
+</div>
+<!-- /.gnavi --> 
+
+    </div>
+    <!-- /.header_inner -->
+  </header>
+  <main>
+<div class="breadcrumbs">
+  <ol>
+    <li><a href="/en/index.html">HOME</a></li>
+    <li><a href="/en/information/press/index.html">Press Releases</a></li>
+    <li><a href="/en/information/press/press-2022.html">FY2022</a></li>
+    <li>JBIC Signs MOU with State of Western Australia</li>
+  </ol>
+</div>
+
+<!-- BSZONE START NAME="BIZASP_BODY" -->
+
+    <div id="h1_title">
+      <h1 id="main_content">JBIC Signs MOU with State of Western Australia
+        <br><span class="sub_title">Strengthening Cooperation for Promoting Japanese Investments in Western Australia</span>
+      </h1>
+    </div><!-- /#h1_title -->
+    <div class="main">
+      <section>
+        <article>
+          <ul class="taglist">
+            <li class="area_oceania">Region: Oceania</li>
+            <li class="sector_resources">Energy and Natural Resources</li>
+            <li class="sector_environment">Environment</li>
+          </ul>
+          <address class="header-address">January 26, 2023</address>
+<ol>
+<li>
+<div>The Japan Bank for International Cooperation (JBIC; Governor: HAYASHI Nobumitsu) signed&nbsp;today a memorandum of understanding (MOU) with the State of Western Australia to build a comprehensive strategic partnership.<br />&nbsp;&nbsp;</div>
+</li>
+<li>
+<div>Western Australia is endowed with a wealth of minerals and energy resources such as iron ore and natural gas, and it also has great potential in the fields of renewable energy power generation, critical minerals, hydrogen, ammonia, and CCUS<sup><a href="#link1">*1</a></sup>. Given the geographical proximity to Japan, Australia is an important partner for supply chain resilience, and Japanese companies are considering participating in businesses including new projects in the abovementioned fields in Western Australia.<br />&nbsp;&nbsp;</div>
+</li>
+<li>
+<div>The MOU aims to strengthen the cooperation between JBIC and the State of Western Australia for further promoting Japanese companies' investments in Western Australia. It is a developmental outcome of the previous MOU that JBIC signed with the State of Western Australia in November 2011.<br />&nbsp;&nbsp;</div>
+</li>
+<li>
+<div>Both Japan and Australia announced their goals of achieving carbon neutrality by 2050. Also, at the Japan-Australia leaders' meeting on October 22, 2022, the Japanese and Australian Prime Ministers concurred to work more closely by further strengthening the two countries' security and defense cooperation and resources and energy security cooperation for the realization of a "Free and Open Indo-Pacific." Under these circumstances, JBIC's strengthening of cooperation with the State of Western Australia in the fields of hydrogen, ammonia, CCUS, and critical minerals under this MOU as well as in the infrastructure, energy, and resources sectors where the two organizations have been cooperating, will contribute toward creating business opportunities and promoting business in Western Australia for Japanese companies. It is also expected to further strengthen the "Special Strategic Partnership" between Japan and Australia that the Government of Japan is promoting.<br />&nbsp;&nbsp;</div>
+</li>
+<li>
+<div>As Japan's policy-based financial institution, JBIC will continue to financially support the creation of business opportunities and the promotion of business for Japanese companies and contribute toward the further development of economic relations between related countries by collaborating closely with such overseas governments and government institutions.<br />&nbsp;&nbsp;</div>
+</li>
+</ol>
+<div>
+<p style="text-align: center;"><img alt="" src="/en/information/press/press-2022/image/0126-017295_1.jpg" /></p>
+</div>
+<h5>Note</h5>
+<ol class="notation">
+<li><span class="pointer"><a id="link1"></a>*1<span class="divider">&nbsp;</span></span>
+<div>Carbon dioxide Capture, Usage and Storage (CCUS) is a technology that separates and captures carbon dioxide that would become a greenhouse gas and utilizes and stores it.</div>
+</li>
+</ol>
+<br />
+<div class="related-info">
+<div class="meta-heading">For further information</div>
+<div class="content">Mr.Sugimoto or Mr.Iseki<br />Press and External Affairs Division, Corporate Planning Department<br />Tel: +81-3-5218-3100<br />Fax: +81-3-5218-3955<!--/content--></div>
+<!--/related-info--></div>
+          <div class="page_reference">
+             <h4>Related Information</h4>
+             <ul class="class="plain_print">
+               <li><a href="/en/about/sydney.html">Representative Office in Sydney</a></li>
+             </ul>
+          </div>
+        </article>
+      </section>
+    </div><!-- /.main -->
+
+    <!-- BSZONE END NAME="BIZASP_BODY" -->
+
+    <div class="sub">
+        <p class="btn_lookup"><a href="https://bizsearch-asp.accelatech.com/bizasp/index.php?corpId=atc220002&amp;en=&amp;layout=1&amp;hits=20&amp;sg=1&amp;ds=1&amp;facet1=num1_2%3A-1%3Ad%3Af+str1_2%3A-1%3Ad%3Af+str1_3%3A-1%3Ad%3Af+str1_4%3A-1%3Ad%3Af+str1_5%3A-1%3Ad%3Af+str1_1%3A-1%3Ad%3Af%3A1&amp;q=">Search press releases</a></p>
+        <dl class="open">
+            <dt><a href="">Fiscal Years</a></dt>
+            <dd>
+                <ul>
+                    <li><a href="/en/information/press/press-2026.html">FY2026</a></li>
+                    <li><a href="/en/information/press/press-2025.html">FY2025</a></li>
+                    <li><a href="/en/information/press/press-2024.html">FY2024</a></li>
+                    <li><a href="/en/information/press/press-2023.html">FY2023</a></li>
+                    <li><a href="/en/information/press/press-2022.html">FY2022</a></li>
+                    <li><a href="/en/information/press/press-2021.html">FY2021</a></li>
+                    <li><a href="/en/information/press/press-2020.html">FY2020</a></li>
+                    <li><a href="/en/information/press/press-2019.html">FY2019</a></li>
+                    <li><a href="/en/information/press/press-2018.html">FY2018</a></li>
+                    <li><a href="/en/information/press/press-2017.html">FY2017</a></li>
+                    <li><a href="/en/information/press/press-2016.html">FY2016</a></li>
+               </ul>
+            </dd>
+        </dl>
+        <dl class="open">
+            <dt><a href="">Sectors</a></dt>
+            <dd>
+                <ul>
+                    <li><a href="/en/information/press/resources.html">Energy and Natural Resources</a></li>
+                    <li><a href="/en/information/press/infrastructure.html">Infrastructures</a></li>
+                    <li><a href="/en/information/press/environment.html">Environment</a></li>
+                    <li><a href="/en/information/press/machine-equipment.html">Machinery and Equipment</a></li>
+                    <li><a href="/en/information/press/manufacture-services.html">Manufacturing and Services</a></li>
+                    <li><a href="/en/information/press/smes.html">Mid-tier Enterprises and Small and Medium-Sized Enterprises(SMEs)</a></li>
+                    <li><a href="/en/information/press/marine-aero.html">Marine and Aerospace</a></li>
+                    <li><a href="/en/information/press/others.html">Others</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="open">
+            <dt><a href="">Region</a></dt>
+            <dd>
+                <ul>
+                    <li><a href="/en/information/press/asia.html">Asia</a></li>
+                    <li><a href="/en/information/press/oceania.html">Oceania</a></li>
+                    <li><a href="/en/information/press/europe.html">Europe</a></li>
+                    <li><a href="/en/information/press/middleeast.html">The Middle East</a></li>
+                    <li><a href="/en/information/press/africa.html">Africa</a></li>
+                    <li><a href="/en/information/press/north-america.html">North America</a></li>
+                    <li><a href="/en/information/press/latin-caribbean.html">Latin America and the Caribbean</a></li>
+                    <li><a href="/en/information/press/other-area.html">Others</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="open">
+            <dt><a href="">Finance Menu</a></dt>
+            <dd>
+                <ul>
+                    <li><a href="/en/information/press/export.html">Export Loans</a></li>
+                    <li><a href="/en/information/press/import.html">Import Loans</a></li>
+                    <li><a href="/en/information/press/investment.html">Overseas Investment Loans</a></li>
+                    <li><a href="/en/information/press/untied-loan.html">Untied Loans</a></li>
+                    <li><a href="/en/information/press/capital.html">Equity Investment</a></li>
+                    <li><a href="/en/information/press/guarantee.html">Guarantees</a></li>
+                    <li><a href="/en/information/press/bridge.html">Bridge Loans</a></li>
+                    <li><a href="/en/information/press/securitization.html">Securitization and Other Financial Instruments</a></li>
+                    <li><a href="/en/information/press/pf.html">Project Finance</a></li>
+                </ul>
+            </dd>
+        </dl>
+    </div>
+    <!-- /.sub -->
+  </main>
+<footer>
+  <div class="menu">
+    <aside>
+      <dl>
+        <dt>Japan Bank for International Cooperation</dt>
+        <dd>4-1 Ohtemachi 1-chome,&nbsp;<br />Chiyoda-ku, Tokyo&nbsp;<br />100-8144,&nbsp;Japan&nbsp;&nbsp;&nbsp;<br />Tel:+81-3-5218-3100</dd>
+      </dl>
+      <ul class="sns">
+<!--
+        <li class="Footer_YouTube"><a title="YouTube(open a new window)" href="https://www.youtube-nocookie.com/embed/YiX4OeztduY" target="_blank">Youtube</a></li>
+-->
+        <li class="Footer_Instagram"><a title="Instagram(open a new window)" href="https://www.instagram.com/jbic_official/" target="_blank">Instagram</a></li>
+        <li class="Footer_Facebook"><a title="Facebook(open a new window)" href="https://www.facebook.com/JBIC.Japan" target="_blank">Facebook</a></li>
+<li class="Footer_LinkedIn"><a title="LinkedIn(open a new window)" href="https://www.linkedin.com/company/1087507" target="_blank">LinkedIn</a></li>
+      </ul>
+    </aside>
+    <nav class="inquire">
+      <ul>
+        <li><a href="/form/index.php?f=request_en.html">Request for publications</a></li>
+        <li><a href="/form/index.php?f=feedback_en.html">Contact Us</a></li>
+      </ul>
+    </nav>
+    <nav class="misc">
+      <ul>
+        <li><a href="/en/security-policy.html">Security Policy</a></li>
+        <li><a href="/en/privacy-policy.html">Privacy Policy</a></li>
+        <li><a href="/en/cookie-policy.html">Cookie Policy</a></li>
+        <li><a href="/en/privacy-notice.html">Privacy Notice</a></li>
+      </ul>
+      <ul>
+        <li><a href="/en/coi.html">Outline of Conflict of Interest Management Policy</a></li>
+      </ul>
+      <ul>
+        <li><a href="/en/terms.html">Terms of Use</a></li>
+        <li><a href="/en/site-policy.html">How to Use</a></li>
+        <li><a href="/en/link.html">Links</a></li>
+      </ul>
+    </nav>
+  </div>
+  <!-- /.menu -->
+  <div class="copyright">
+    <p>Copyright &copy;<br />Japan Bank for International Cooperation</p>
+  </div>
+  <!-- /.copyright -->
+</footer>
+  <script src="/en/js/jquery-3.7.1.min.js"></script>
+  <script src="/en/js/analyticstracking.js"></script>
+  <script src="/en/js/pagetop.js"></script>
+  <script src="/en/js/breakpoints.js"></script>
+  <script src="/en/js/common.js"></script>
+  <script src="https://bizsearch-asp.accelatech.com/bizasp/js/accela_suggest.js"></script>
+  <script src="https://bizsearch-asp.accelatech.com/bizasp/js/accela_suggest2.js"></script>
+  <script src="/ja/js/assets_common.js"></script>
+  <script src="/ja/js/assets_dsp_link_size_new.js"></script>
+</body>
+</html>

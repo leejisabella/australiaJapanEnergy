@@ -1,0 +1,667 @@
+year,table,investment_type,value_aud_million
+2001,transactions,Foreign investment in Australia,282.0
+2002,transactions,Foreign investment in Australia,-448.0
+2003,transactions,Foreign investment in Australia,872.0
+2004,transactions,Foreign investment in Australia,4098.0
+2005,transactions,Foreign investment in Australia,2068.0
+2006,transactions,Foreign investment in Australia,4894.0
+2007,transactions,Foreign investment in Australia,12504.0
+2008,transactions,Foreign investment in Australia,21050.0
+2009,transactions,Foreign investment in Australia,11274.0
+2010,transactions,Foreign investment in Australia,14315.0
+2011,transactions,Foreign investment in Australia,11733.0
+2012,transactions,Foreign investment in Australia,9239.0
+2013,transactions,Foreign investment in Australia,5198.0
+2014,transactions,Foreign investment in Australia,18781.0
+2015,transactions,Foreign investment in Australia,14873.0
+2016,transactions,Foreign investment in Australia,13420.0
+2017,transactions,Foreign investment in Australia,10511.0
+2018,transactions,Foreign investment in Australia,4559.0
+2019,transactions,Foreign investment in Australia,7212.0
+2020,transactions,Foreign investment in Australia,21349.0
+2021,transactions,Foreign investment in Australia,-6821.0
+2022,transactions,Foreign investment in Australia,6686.0
+2023,transactions,Foreign investment in Australia,-5899.0
+2024,transactions,Foreign investment in Australia,7302.0
+2025,transactions,Foreign investment in Australia,2969.0
+2001,transactions,Direct investment in Australia,945.0
+2002,transactions,Direct investment in Australia,2698.0
+2003,transactions,Direct investment in Australia,2167.0
+2004,transactions,Direct investment in Australia,1143.0
+2005,transactions,Direct investment in Australia,3416.0
+2006,transactions,Direct investment in Australia,3065.0
+2007,transactions,Direct investment in Australia,6764.0
+2008,transactions,Direct investment in Australia,6280.0
+2009,transactions,Direct investment in Australia,9745.0
+2010,transactions,Direct investment in Australia,6196.0
+2011,transactions,Direct investment in Australia,13153.0
+2012,transactions,Direct investment in Australia,11729.0
+2013,transactions,Direct investment in Australia,6966.0
+2014,transactions,Direct investment in Australia,12140.0
+2015,transactions,Direct investment in Australia,13387.0
+2016,transactions,Direct investment in Australia,9481.0
+2017,transactions,Direct investment in Australia,6382.0
+2018,transactions,Direct investment in Australia,9258.0
+2019,transactions,Direct investment in Australia,11251.0
+2020,transactions,Direct investment in Australia,19000.0
+2021,transactions,Direct investment in Australia,2096.0
+2022,transactions,Direct investment in Australia,5759.0
+2023,transactions,Direct investment in Australia,8861.0
+2024,transactions,Direct investment in Australia,19752.0
+2025,transactions,Direct investment in Australia,5573.0
+2001,transactions,"Direct investment in Australia, Equity capital and reinvested earnings",1450.0
+2002,transactions,"Direct investment in Australia, Equity capital and reinvested earnings",2911.0
+2003,transactions,"Direct investment in Australia, Equity capital and reinvested earnings",2105.0
+2004,transactions,"Direct investment in Australia, Equity capital and reinvested earnings",1270.0
+2005,transactions,"Direct investment in Australia, Equity capital and reinvested earnings",2860.0
+2006,transactions,"Direct investment in Australia, Equity capital and reinvested earnings",3329.0
+2007,transactions,"Direct investment in Australia, Equity capital and reinvested earnings",5707.0
+2008,transactions,"Direct investment in Australia, Equity capital and reinvested earnings",5239.0
+2009,transactions,"Direct investment in Australia, Equity capital and reinvested earnings",7374.0
+2010,transactions,"Direct investment in Australia, Equity capital and reinvested earnings",6061.0
+2011,transactions,"Direct investment in Australia, Equity capital and reinvested earnings",12180.0
+2012,transactions,"Direct investment in Australia, Equity capital and reinvested earnings",9704.0
+2013,transactions,"Direct investment in Australia, Equity capital and reinvested earnings",5288.0
+2014,transactions,"Direct investment in Australia, Equity capital and reinvested earnings",10250.0
+2015,transactions,"Direct investment in Australia, Equity capital and reinvested earnings",8431.0
+2016,transactions,"Direct investment in Australia, Equity capital and reinvested earnings",7787.0
+2017,transactions,"Direct investment in Australia, Equity capital and reinvested earnings",3453.0
+2018,transactions,"Direct investment in Australia, Equity capital and reinvested earnings",5375.0
+2019,transactions,"Direct investment in Australia, Equity capital and reinvested earnings",14461.0
+2020,transactions,"Direct investment in Australia, Equity capital and reinvested earnings",19308.0
+2021,transactions,"Direct investment in Australia, Equity capital and reinvested earnings",7006.0
+2022,transactions,"Direct investment in Australia, Equity capital and reinvested earnings",10482.0
+2023,transactions,"Direct investment in Australia, Equity capital and reinvested earnings",9025.0
+2024,transactions,"Direct investment in Australia, Equity capital and reinvested earnings",25158.0
+2025,transactions,"Direct investment in Australia, Equity capital and reinvested earnings",7070.0
+2001,transactions,"Direct investment in Australia, Other capital",-505.0
+2002,transactions,"Direct investment in Australia, Other capital",-213.0
+2003,transactions,"Direct investment in Australia, Other capital",63.0
+2004,transactions,"Direct investment in Australia, Other capital",-127.0
+2005,transactions,"Direct investment in Australia, Other capital",556.0
+2006,transactions,"Direct investment in Australia, Other capital",-264.0
+2007,transactions,"Direct investment in Australia, Other capital",1057.0
+2008,transactions,"Direct investment in Australia, Other capital",1041.0
+2009,transactions,"Direct investment in Australia, Other capital",2371.0
+2010,transactions,"Direct investment in Australia, Other capital",135.0
+2011,transactions,"Direct investment in Australia, Other capital",973.0
+2012,transactions,"Direct investment in Australia, Other capital",2024.0
+2013,transactions,"Direct investment in Australia, Other capital",1678.0
+2014,transactions,"Direct investment in Australia, Other capital",1890.0
+2015,transactions,"Direct investment in Australia, Other capital",4956.0
+2016,transactions,"Direct investment in Australia, Other capital",1694.0
+2017,transactions,"Direct investment in Australia, Other capital",2929.0
+2018,transactions,"Direct investment in Australia, Other capital",3883.0
+2019,transactions,"Direct investment in Australia, Other capital",-3209.0
+2020,transactions,"Direct investment in Australia, Other capital",-307.0
+2021,transactions,"Direct investment in Australia, Other capital",-4910.0
+2022,transactions,"Direct investment in Australia, Other capital",-4723.0
+2023,transactions,"Direct investment in Australia, Other capital",-164.0
+2024,transactions,"Direct investment in Australia, Other capital",-5405.0
+2025,transactions,"Direct investment in Australia, Other capital",-1497.0
+2001,transactions,Portfolio investment liabilities,-278.0
+2002,transactions,Portfolio investment liabilities,987.0
+2003,transactions,Portfolio investment liabilities,904.0
+2004,transactions,Portfolio investment liabilities,5995.0
+2005,transactions,Portfolio investment liabilities,222.0
+2006,transactions,Portfolio investment liabilities,885.0
+2007,transactions,Portfolio investment liabilities,3247.0
+2008,transactions,Portfolio investment liabilities,10618.0
+2009,transactions,Portfolio investment liabilities,4488.0
+2010,transactions,Portfolio investment liabilities,5670.0
+2011,transactions,Portfolio investment liabilities,1320.0
+2012,transactions,Portfolio investment liabilities,-1068.0
+2013,transactions,Portfolio investment liabilities,-10772.0
+2014,transactions,Portfolio investment liabilities,1745.0
+2015,transactions,Portfolio investment liabilities,4870.0
+2016,transactions,Portfolio investment liabilities,6973.0
+2017,transactions,Portfolio investment liabilities,5355.0
+2018,transactions,Portfolio investment liabilities,-3801.0
+2019,transactions,Portfolio investment liabilities,-5708.0
+2020,transactions,Portfolio investment liabilities,9636.0
+2021,transactions,Portfolio investment liabilities,-7996.0
+2022,transactions,Portfolio investment liabilities,7034.0
+2023,transactions,Portfolio investment liabilities,-1629.0
+2024,transactions,Portfolio investment liabilities,596.0
+2025,transactions,Portfolio investment liabilities,-2138.0
+2005,transactions,"Portfolio investment liabilities, Equity securities",68.0
+2007,transactions,"Portfolio investment liabilities, Equity securities",21.0
+2011,transactions,"Portfolio investment liabilities, Equity securities",-36.0
+2012,transactions,"Portfolio investment liabilities, Equity securities",-712.0
+2013,transactions,"Portfolio investment liabilities, Equity securities",-3711.0
+2014,transactions,"Portfolio investment liabilities, Equity securities",-528.0
+2015,transactions,"Portfolio investment liabilities, Equity securities",3031.0
+2016,transactions,"Portfolio investment liabilities, Equity securities",4523.0
+2017,transactions,"Portfolio investment liabilities, Equity securities",1372.0
+2018,transactions,"Portfolio investment liabilities, Equity securities",-2507.0
+2019,transactions,"Portfolio investment liabilities, Equity securities",229.0
+2020,transactions,"Portfolio investment liabilities, Equity securities",-1718.0
+2021,transactions,"Portfolio investment liabilities, Equity securities",-4401.0
+2022,transactions,"Portfolio investment liabilities, Equity securities",-552.0
+2023,transactions,"Portfolio investment liabilities, Equity securities",-1167.0
+2024,transactions,"Portfolio investment liabilities, Equity securities",-1489.0
+2025,transactions,"Portfolio investment liabilities, Equity securities",-707.0
+2005,transactions,"Portfolio investment liabilities, Debt securities",154.0
+2007,transactions,"Portfolio investment liabilities, Debt securities",3226.0
+2011,transactions,"Portfolio investment liabilities, Debt securities",1356.0
+2012,transactions,"Portfolio investment liabilities, Debt securities",-356.0
+2013,transactions,"Portfolio investment liabilities, Debt securities",-7060.0
+2014,transactions,"Portfolio investment liabilities, Debt securities",2272.0
+2015,transactions,"Portfolio investment liabilities, Debt securities",1840.0
+2016,transactions,"Portfolio investment liabilities, Debt securities",2451.0
+2017,transactions,"Portfolio investment liabilities, Debt securities",3984.0
+2018,transactions,"Portfolio investment liabilities, Debt securities",-1294.0
+2019,transactions,"Portfolio investment liabilities, Debt securities",-5937.0
+2020,transactions,"Portfolio investment liabilities, Debt securities",11353.0
+2021,transactions,"Portfolio investment liabilities, Debt securities",-3595.0
+2022,transactions,"Portfolio investment liabilities, Debt securities",7586.0
+2023,transactions,"Portfolio investment liabilities, Debt securities",-462.0
+2024,transactions,"Portfolio investment liabilities, Debt securities",2085.0
+2025,transactions,"Portfolio investment liabilities, Debt securities",-1431.0
+2001,transactions,Financial derivative liabilities,-1331.0
+2002,transactions,Financial derivative liabilities,-860.0
+2003,transactions,Financial derivative liabilities,-632.0
+2004,transactions,Financial derivative liabilities,-1551.0
+2005,transactions,Financial derivative liabilities,-1744.0
+2006,transactions,Financial derivative liabilities,639.0
+2007,transactions,Financial derivative liabilities,-1914.0
+2008,transactions,Financial derivative liabilities,-261.0
+2009,transactions,Financial derivative liabilities,4248.0
+2010,transactions,Financial derivative liabilities,-1277.0
+2011,transactions,Financial derivative liabilities,-1140.0
+2012,transactions,Financial derivative liabilities,-1642.0
+2013,transactions,Financial derivative liabilities,-1115.0
+2014,transactions,Financial derivative liabilities,-900.0
+2015,transactions,Financial derivative liabilities,-3071.0
+2016,transactions,Financial derivative liabilities,-4115.0
+2017,transactions,Financial derivative liabilities,-1967.0
+2018,transactions,Financial derivative liabilities,-1098.0
+2019,transactions,Financial derivative liabilities,-896.0
+2020,transactions,Financial derivative liabilities,-4753.0
+2021,transactions,Financial derivative liabilities,-3880.0
+2022,transactions,Financial derivative liabilities,-3294.0
+2023,transactions,Financial derivative liabilities,-6240.0
+2024,transactions,Financial derivative liabilities,-7863.0
+2025,transactions,Financial derivative liabilities,-1654.0
+2001,transactions,Other investment liabilities,946.0
+2002,transactions,Other investment liabilities,-3273.0
+2003,transactions,Other investment liabilities,-1568.0
+2004,transactions,Other investment liabilities,-1490.0
+2005,transactions,Other investment liabilities,174.0
+2006,transactions,Other investment liabilities,306.0
+2007,transactions,Other investment liabilities,4408.0
+2008,transactions,Other investment liabilities,4413.0
+2009,transactions,Other investment liabilities,-7206.0
+2010,transactions,Other investment liabilities,3726.0
+2011,transactions,Other investment liabilities,-1601.0
+2012,transactions,Other investment liabilities,221.0
+2013,transactions,Other investment liabilities,10118.0
+2014,transactions,Other investment liabilities,5796.0
+2015,transactions,Other investment liabilities,-313.0
+2016,transactions,Other investment liabilities,1080.0
+2017,transactions,Other investment liabilities,741.0
+2018,transactions,Other investment liabilities,200.0
+2019,transactions,Other investment liabilities,2565.0
+2020,transactions,Other investment liabilities,-2534.0
+2021,transactions,Other investment liabilities,2960.0
+2022,transactions,Other investment liabilities,-2814.0
+2023,transactions,Other investment liabilities,-6892.0
+2024,transactions,Other investment liabilities,-5184.0
+2025,transactions,Other investment liabilities,1188.0
+2001,levels,Foreign investment in Australia,49794.0
+2002,levels,Foreign investment in Australia,49494.0
+2003,levels,Foreign investment in Australia,46417.0
+2004,levels,Foreign investment in Australia,49144.0
+2005,levels,Foreign investment in Australia,51023.0
+2006,levels,Foreign investment in Australia,51679.0
+2007,levels,Foreign investment in Australia,63380.0
+2008,levels,Foreign investment in Australia,88875.0
+2009,levels,Foreign investment in Australia,102583.0
+2010,levels,Foreign investment in Australia,118735.0
+2011,levels,Foreign investment in Australia,125713.0
+2012,levels,Foreign investment in Australia,158466.0
+2013,levels,Foreign investment in Australia,164128.0
+2014,levels,Foreign investment in Australia,187562.0
+2015,levels,Foreign investment in Australia,206827.0
+2016,levels,Foreign investment in Australia,223382.0
+2017,levels,Foreign investment in Australia,226627.0
+2018,levels,Foreign investment in Australia,234392.0
+2019,levels,Foreign investment in Australia,243821.0
+2020,levels,Foreign investment in Australia,263572.0
+2021,levels,Foreign investment in Australia,258184.0
+2022,levels,Foreign investment in Australia,265291.0
+2023,levels,Foreign investment in Australia,272143.0
+2024,levels,Foreign investment in Australia,289601.0
+2025,levels,Foreign investment in Australia,286352.0
+2001,levels,Direct investment in Australia,16303.0
+2002,levels,Direct investment in Australia,16659.0
+2003,levels,Direct investment in Australia,18386.0
+2004,levels,Direct investment in Australia,18110.0
+2005,levels,Direct investment in Australia,21403.0
+2006,levels,Direct investment in Australia,23819.0
+2007,levels,Direct investment in Australia,31100.0
+2008,levels,Direct investment in Australia,36676.0
+2009,levels,Direct investment in Australia,45637.0
+2010,levels,Direct investment in Australia,51082.0
+2011,levels,Direct investment in Australia,54864.0
+2012,levels,Direct investment in Australia,64266.0
+2013,levels,Direct investment in Australia,67843.0
+2014,levels,Direct investment in Australia,77659.0
+2015,levels,Direct investment in Australia,91923.0
+2016,levels,Direct investment in Australia,97855.0
+2017,levels,Direct investment in Australia,97937.0
+2018,levels,Direct investment in Australia,108935.0
+2019,levels,Direct investment in Australia,115674.0
+2020,levels,Direct investment in Australia,130073.0
+2021,levels,Direct investment in Australia,130836.0
+2022,levels,Direct investment in Australia,138520.0
+2023,levels,Direct investment in Australia,145030.0
+2024,levels,Direct investment in Australia,165021.0
+2025,levels,Direct investment in Australia,165742.0
+2001,levels,"Direct investment in Australia, Equity capital and reinvested earnings",13476.0
+2002,levels,"Direct investment in Australia, Equity capital and reinvested earnings",14609.0
+2003,levels,"Direct investment in Australia, Equity capital and reinvested earnings",16450.0
+2004,levels,"Direct investment in Australia, Equity capital and reinvested earnings",16401.0
+2005,levels,"Direct investment in Australia, Equity capital and reinvested earnings",19148.0
+2006,levels,"Direct investment in Australia, Equity capital and reinvested earnings",21866.0
+2007,levels,"Direct investment in Australia, Equity capital and reinvested earnings",28122.0
+2008,levels,"Direct investment in Australia, Equity capital and reinvested earnings",32592.0
+2009,levels,"Direct investment in Australia, Equity capital and reinvested earnings",39539.0
+2010,levels,"Direct investment in Australia, Equity capital and reinvested earnings",44879.0
+2011,levels,"Direct investment in Australia, Equity capital and reinvested earnings",47669.0
+2012,levels,"Direct investment in Australia, Equity capital and reinvested earnings",55025.0
+2013,levels,"Direct investment in Australia, Equity capital and reinvested earnings",56812.0
+2014,levels,"Direct investment in Australia, Equity capital and reinvested earnings",64064.0
+2015,levels,"Direct investment in Australia, Equity capital and reinvested earnings",72695.0
+2016,levels,"Direct investment in Australia, Equity capital and reinvested earnings",76959.0
+2017,levels,"Direct investment in Australia, Equity capital and reinvested earnings",74805.0
+2018,levels,"Direct investment in Australia, Equity capital and reinvested earnings",80208.0
+2019,levels,"Direct investment in Australia, Equity capital and reinvested earnings",90028.0
+2020,levels,"Direct investment in Australia, Equity capital and reinvested earnings",106521.0
+2021,levels,"Direct investment in Australia, Equity capital and reinvested earnings",111583.0
+2022,levels,"Direct investment in Australia, Equity capital and reinvested earnings",122764.0
+2023,levels,"Direct investment in Australia, Equity capital and reinvested earnings",129425.0
+2024,levels,"Direct investment in Australia, Equity capital and reinvested earnings",153829.0
+2025,levels,"Direct investment in Australia, Equity capital and reinvested earnings",157227.0
+2001,levels,"Direct investment in Australia, Other capital",2827.0
+2002,levels,"Direct investment in Australia, Other capital",2050.0
+2003,levels,"Direct investment in Australia, Other capital",1936.0
+2004,levels,"Direct investment in Australia, Other capital",1710.0
+2005,levels,"Direct investment in Australia, Other capital",2255.0
+2006,levels,"Direct investment in Australia, Other capital",1954.0
+2007,levels,"Direct investment in Australia, Other capital",2977.0
+2008,levels,"Direct investment in Australia, Other capital",4085.0
+2009,levels,"Direct investment in Australia, Other capital",6098.0
+2010,levels,"Direct investment in Australia, Other capital",6203.0
+2011,levels,"Direct investment in Australia, Other capital",7196.0
+2012,levels,"Direct investment in Australia, Other capital",9240.0
+2013,levels,"Direct investment in Australia, Other capital",11031.0
+2014,levels,"Direct investment in Australia, Other capital",13595.0
+2015,levels,"Direct investment in Australia, Other capital",19229.0
+2016,levels,"Direct investment in Australia, Other capital",20896.0
+2017,levels,"Direct investment in Australia, Other capital",23132.0
+2018,levels,"Direct investment in Australia, Other capital",28727.0
+2019,levels,"Direct investment in Australia, Other capital",25646.0
+2020,levels,"Direct investment in Australia, Other capital",23552.0
+2021,levels,"Direct investment in Australia, Other capital",19253.0
+2022,levels,"Direct investment in Australia, Other capital",15756.0
+2023,levels,"Direct investment in Australia, Other capital",15604.0
+2024,levels,"Direct investment in Australia, Other capital",11192.0
+2025,levels,"Direct investment in Australia, Other capital",8514.0
+2001,levels,Portfolio investment liabilities,19885.0
+2002,levels,Portfolio investment liabilities,22053.0
+2003,levels,Portfolio investment liabilities,19450.0
+2004,levels,Portfolio investment liabilities,24839.0
+2005,levels,Portfolio investment liabilities,23776.0
+2006,levels,Portfolio investment liabilities,21084.0
+2007,levels,Portfolio investment liabilities,21372.0
+2008,levels,Portfolio investment liabilities,42091.0
+2009,levels,Portfolio investment liabilities,49176.0
+2010,levels,Portfolio investment liabilities,56077.0
+2011,levels,Portfolio investment liabilities,61570.0
+2012,levels,Portfolio investment liabilities,85129.0
+2013,levels,Portfolio investment liabilities,75466.0
+2014,levels,Portfolio investment liabilities,80239.0
+2015,levels,Portfolio investment liabilities,85130.0
+2016,levels,Portfolio investment liabilities,94124.0
+2017,levels,Portfolio investment liabilities,98314.0
+2018,levels,Portfolio investment liabilities,92578.0
+2019,levels,Portfolio investment liabilities,93096.0
+2020,levels,Portfolio investment liabilities,100186.0
+2021,levels,Portfolio investment liabilities,91567.0
+2022,levels,Portfolio investment liabilities,87653.0
+2023,levels,Portfolio investment liabilities,85979.0
+2024,levels,Portfolio investment liabilities,86030.0
+2025,levels,Portfolio investment liabilities,78903.0
+2001,levels,"Portfolio investment liabilities, Equity securities",3769.0
+2002,levels,"Portfolio investment liabilities, Equity securities",3716.0
+2003,levels,"Portfolio investment liabilities, Equity securities",3714.0
+2004,levels,"Portfolio investment liabilities, Equity securities",3895.0
+2005,levels,"Portfolio investment liabilities, Equity securities",3982.0
+2006,levels,"Portfolio investment liabilities, Equity securities",4161.0
+2007,levels,"Portfolio investment liabilities, Equity securities",4313.0
+2008,levels,"Portfolio investment liabilities, Equity securities",3668.0
+2009,levels,"Portfolio investment liabilities, Equity securities",3794.0
+2010,levels,"Portfolio investment liabilities, Equity securities",3876.0
+2011,levels,"Portfolio investment liabilities, Equity securities",3738.0
+2012,levels,"Portfolio investment liabilities, Equity securities",22892.0
+2013,levels,"Portfolio investment liabilities, Equity securities",21913.0
+2014,levels,"Portfolio investment liabilities, Equity securities",22257.0
+2015,levels,"Portfolio investment liabilities, Equity securities",25030.0
+2016,levels,"Portfolio investment liabilities, Equity securities",31600.0
+2017,levels,"Portfolio investment liabilities, Equity securities",34126.0
+2018,levels,"Portfolio investment liabilities, Equity securities",29099.0
+2019,levels,"Portfolio investment liabilities, Equity securities",33866.0
+2020,levels,"Portfolio investment liabilities, Equity securities",30124.0
+2021,levels,"Portfolio investment liabilities, Equity securities",29066.0
+2022,levels,"Portfolio investment liabilities, Equity securities",26678.0
+2023,levels,"Portfolio investment liabilities, Equity securities",27391.0
+2024,levels,"Portfolio investment liabilities, Equity securities",27722.0
+2025,levels,"Portfolio investment liabilities, Equity securities",25021.0
+2001,levels,"Portfolio investment liabilities, Debt securities",16116.0
+2002,levels,"Portfolio investment liabilities, Debt securities",18337.0
+2003,levels,"Portfolio investment liabilities, Debt securities",15736.0
+2004,levels,"Portfolio investment liabilities, Debt securities",20944.0
+2005,levels,"Portfolio investment liabilities, Debt securities",19795.0
+2006,levels,"Portfolio investment liabilities, Debt securities",16923.0
+2007,levels,"Portfolio investment liabilities, Debt securities",17060.0
+2008,levels,"Portfolio investment liabilities, Debt securities",38423.0
+2009,levels,"Portfolio investment liabilities, Debt securities",45382.0
+2010,levels,"Portfolio investment liabilities, Debt securities",52201.0
+2011,levels,"Portfolio investment liabilities, Debt securities",57832.0
+2012,levels,"Portfolio investment liabilities, Debt securities",62237.0
+2013,levels,"Portfolio investment liabilities, Debt securities",53553.0
+2014,levels,"Portfolio investment liabilities, Debt securities",57982.0
+2015,levels,"Portfolio investment liabilities, Debt securities",60101.0
+2016,levels,"Portfolio investment liabilities, Debt securities",62524.0
+2017,levels,"Portfolio investment liabilities, Debt securities",64188.0
+2018,levels,"Portfolio investment liabilities, Debt securities",63479.0
+2019,levels,"Portfolio investment liabilities, Debt securities",59230.0
+2020,levels,"Portfolio investment liabilities, Debt securities",70061.0
+2021,levels,"Portfolio investment liabilities, Debt securities",62501.0
+2022,levels,"Portfolio investment liabilities, Debt securities",60975.0
+2023,levels,"Portfolio investment liabilities, Debt securities",58588.0
+2024,levels,"Portfolio investment liabilities, Debt securities",58308.0
+2025,levels,"Portfolio investment liabilities, Debt securities",53882.0
+2001,levels,Financial derivative liabilities,1550.0
+2002,levels,Financial derivative liabilities,1231.0
+2003,levels,Financial derivative liabilities,1645.0
+2004,levels,Financial derivative liabilities,953.0
+2005,levels,Financial derivative liabilities,476.0
+2006,levels,Financial derivative liabilities,1465.0
+2007,levels,Financial derivative liabilities,1290.0
+2009,levels,Financial derivative liabilities,225.0
+2010,levels,Financial derivative liabilities,629.0
+2011,levels,Financial derivative liabilities,345.0
+2013,levels,Financial derivative liabilities,748.0
+2014,levels,Financial derivative liabilities,3013.0
+2015,levels,Financial derivative liabilities,1938.0
+2016,levels,Financial derivative liabilities,2284.0
+2017,levels,Financial derivative liabilities,1408.0
+2018,levels,Financial derivative liabilities,2818.0
+2019,levels,Financial derivative liabilities,2222.0
+2020,levels,Financial derivative liabilities,5893.0
+2021,levels,Financial derivative liabilities,4756.0
+2022,levels,Financial derivative liabilities,11247.0
+2023,levels,Financial derivative liabilities,7464.0
+2024,levels,Financial derivative liabilities,10415.0
+2025,levels,Financial derivative liabilities,12943.0
+2001,levels,Other investment liabilities,12056.0
+2002,levels,Other investment liabilities,9550.0
+2003,levels,Other investment liabilities,6937.0
+2004,levels,Other investment liabilities,5241.0
+2005,levels,Other investment liabilities,5367.0
+2006,levels,Other investment liabilities,5311.0
+2007,levels,Other investment liabilities,9618.0
+2009,levels,Other investment liabilities,7544.0
+2010,levels,Other investment liabilities,10947.0
+2011,levels,Other investment liabilities,8934.0
+2013,levels,Other investment liabilities,20070.0
+2014,levels,Other investment liabilities,26651.0
+2015,levels,Other investment liabilities,27836.0
+2016,levels,Other investment liabilities,29120.0
+2017,levels,Other investment liabilities,28969.0
+2018,levels,Other investment liabilities,30061.0
+2019,levels,Other investment liabilities,32829.0
+2020,levels,Other investment liabilities,27421.0
+2021,levels,Other investment liabilities,31024.0
+2022,levels,Other investment liabilities,27871.0
+2023,levels,Other investment liabilities,33670.0
+2024,levels,Other investment liabilities,28135.0
+2025,levels,Other investment liabilities,28764.0
+2001,levels,Total equity,17245.0
+2002,levels,Total equity,18326.0
+2003,levels,Total equity,20164.0
+2004,levels,Total equity,20296.0
+2005,levels,Total equity,23130.0
+2006,levels,Total equity,26027.0
+2007,levels,Total equity,32435.0
+2008,levels,Total equity,36259.0
+2009,levels,Total equity,43333.0
+2010,levels,Total equity,48755.0
+2011,levels,Total equity,51406.0
+2012,levels,Total equity,77918.0
+2013,levels,Total equity,78725.0
+2014,levels,Total equity,86321.0
+2015,levels,Total equity,97724.0
+2016,levels,Total equity,108559.0
+2017,levels,Total equity,108931.0
+2018,levels,Total equity,109307.0
+2019,levels,Total equity,123894.0
+2020,levels,Total equity,136645.0
+2021,levels,Total equity,140649.0
+2022,levels,Total equity,149442.0
+2023,levels,Total equity,156816.0
+2024,levels,Total equity,181551.0
+2025,levels,Total equity,182248.0
+2001,levels,Total debt,33638.0
+2002,levels,Total debt,32291.0
+2003,levels,Total debt,27131.0
+2004,levels,Total debt,29496.0
+2005,levels,Total debt,28434.0
+2006,levels,Total debt,26254.0
+2007,levels,Total debt,31428.0
+2008,levels,Total debt,53397.0
+2009,levels,Total debt,60054.0
+2010,levels,Total debt,70743.0
+2011,levels,Total debt,75151.0
+2012,levels,Total debt,81508.0
+2013,levels,Total debt,86269.0
+2014,levels,Total debt,102074.0
+2015,levels,Total debt,110021.0
+2016,levels,Total debt,116104.0
+2017,levels,Total debt,118770.0
+2018,levels,Total debt,126945.0
+2019,levels,Total debt,122951.0
+2020,levels,Total debt,129130.0
+2021,levels,Total debt,122289.0
+2022,levels,Total debt,121307.0
+2023,levels,Total debt,119593.0
+2024,levels,Total debt,115669.0
+2025,levels,Total debt,111114.0
+2001,income,Investment income,-2473.0
+2002,income,Investment income,-2920.0
+2003,income,Investment income,-2983.0
+2004,income,Investment income,-3142.0
+2005,income,Investment income,-4856.0
+2006,income,Investment income,-5418.0
+2007,income,Investment income,-5637.0
+2008,income,Investment income,-7309.0
+2009,income,Investment income,-7793.0
+2010,income,Investment income,-8815.0
+2011,income,Investment income,-10893.0
+2012,income,Investment income,-10039.0
+2013,income,Investment income,-9046.0
+2014,income,Investment income,-8217.0
+2015,income,Investment income,-6880.0
+2016,income,Investment income,-8096.0
+2017,income,Investment income,-9889.0
+2018,income,Investment income,-11669.0
+2019,income,Investment income,-12548.0
+2020,income,Investment income,-7296.0
+2021,income,Investment income,-13645.0
+2022,income,Investment income,-22861.0
+2023,income,Investment income,-17669.0
+2024,income,Investment income,-16778.0
+2025,income,Investment income,-13621.0
+2001,income,Direct investment in Australia,-1509.0
+2002,income,Direct investment in Australia,-1839.0
+2003,income,Direct investment in Australia,-2014.0
+2004,income,Direct investment in Australia,-2201.0
+2005,income,Direct investment in Australia,-3846.0
+2006,income,Direct investment in Australia,-4493.0
+2007,income,Direct investment in Australia,-4578.0
+2008,income,Direct investment in Australia,-5685.0
+2009,income,Direct investment in Australia,-5455.0
+2010,income,Direct investment in Australia,-6526.0
+2011,income,Direct investment in Australia,-8717.0
+2012,income,Direct investment in Australia,-6788.0
+2013,income,Direct investment in Australia,-6439.0
+2014,income,Direct investment in Australia,-5622.0
+2015,income,Direct investment in Australia,-4321.0
+2016,income,Direct investment in Australia,-5520.0
+2017,income,Direct investment in Australia,-6861.0
+2018,income,Direct investment in Australia,-8556.0
+2019,income,Direct investment in Australia,-9955.0
+2020,income,Direct investment in Australia,-5549.0
+2021,income,Direct investment in Australia,-11670.0
+2022,income,Direct investment in Australia,-19767.0
+2023,income,Direct investment in Australia,-13870.0
+2024,income,Direct investment in Australia,-13060.0
+2025,income,Direct investment in Australia,-10092.0
+2001,income,"Direct investment in Australia, Income on equity",-1350.0
+2002,income,"Direct investment in Australia, Income on equity",-1697.0
+2003,income,"Direct investment in Australia, Income on equity",-1996.0
+2004,income,"Direct investment in Australia, Income on equity",-2185.0
+2005,income,"Direct investment in Australia, Income on equity",-3827.0
+2006,income,"Direct investment in Australia, Income on equity",-4474.0
+2007,income,"Direct investment in Australia, Income on equity",-4557.0
+2008,income,"Direct investment in Australia, Income on equity",-5661.0
+2009,income,"Direct investment in Australia, Income on equity",-5433.0
+2010,income,"Direct investment in Australia, Income on equity",-6470.0
+2011,income,"Direct investment in Australia, Income on equity",-8686.0
+2012,income,"Direct investment in Australia, Income on equity",-6746.0
+2013,income,"Direct investment in Australia, Income on equity",-6395.0
+2014,income,"Direct investment in Australia, Income on equity",-5552.0
+2015,income,"Direct investment in Australia, Income on equity",-4261.0
+2016,income,"Direct investment in Australia, Income on equity",-5463.0
+2017,income,"Direct investment in Australia, Income on equity",-6816.0
+2018,income,"Direct investment in Australia, Income on equity",-8508.0
+2019,income,"Direct investment in Australia, Income on equity",-9908.0
+2020,income,"Direct investment in Australia, Income on equity",-5506.0
+2021,income,"Direct investment in Australia, Income on equity",-11626.0
+2022,income,"Direct investment in Australia, Income on equity",-19643.0
+2023,income,"Direct investment in Australia, Income on equity",-13840.0
+2024,income,"Direct investment in Australia, Income on equity",-13032.0
+2025,income,"Direct investment in Australia, Income on equity",-10081.0
+2001,income,"Direct investment in Australia, Income on debt",-159.0
+2002,income,"Direct investment in Australia, Income on debt",-142.0
+2003,income,"Direct investment in Australia, Income on debt",-18.0
+2004,income,"Direct investment in Australia, Income on debt",-16.0
+2005,income,"Direct investment in Australia, Income on debt",-20.0
+2006,income,"Direct investment in Australia, Income on debt",-20.0
+2007,income,"Direct investment in Australia, Income on debt",-22.0
+2008,income,"Direct investment in Australia, Income on debt",-23.0
+2009,income,"Direct investment in Australia, Income on debt",-22.0
+2010,income,"Direct investment in Australia, Income on debt",-56.0
+2011,income,"Direct investment in Australia, Income on debt",-31.0
+2012,income,"Direct investment in Australia, Income on debt",-41.0
+2013,income,"Direct investment in Australia, Income on debt",-44.0
+2014,income,"Direct investment in Australia, Income on debt",-70.0
+2015,income,"Direct investment in Australia, Income on debt",-61.0
+2016,income,"Direct investment in Australia, Income on debt",-57.0
+2017,income,"Direct investment in Australia, Income on debt",-45.0
+2018,income,"Direct investment in Australia, Income on debt",-48.0
+2019,income,"Direct investment in Australia, Income on debt",-48.0
+2020,income,"Direct investment in Australia, Income on debt",-43.0
+2021,income,"Direct investment in Australia, Income on debt",-45.0
+2022,income,"Direct investment in Australia, Income on debt",-124.0
+2023,income,"Direct investment in Australia, Income on debt",-30.0
+2024,income,"Direct investment in Australia, Income on debt",-28.0
+2025,income,"Direct investment in Australia, Income on debt",-11.0
+2001,income,Portfolio investment liabilities,-563.0
+2002,income,Portfolio investment liabilities,-751.0
+2003,income,Portfolio investment liabilities,-777.0
+2004,income,Portfolio investment liabilities,-824.0
+2005,income,Portfolio investment liabilities,-952.0
+2006,income,Portfolio investment liabilities,-840.0
+2007,income,Portfolio investment liabilities,-918.0
+2008,income,Portfolio investment liabilities,-1500.0
+2009,income,Portfolio investment liabilities,-2136.0
+2010,income,Portfolio investment liabilities,-2179.0
+2011,income,Portfolio investment liabilities,-2092.0
+2012,income,Portfolio investment liabilities,-3154.0
+2013,income,Portfolio investment liabilities,-2492.0
+2014,income,Portfolio investment liabilities,-2432.0
+2015,income,Portfolio investment liabilities,-2369.0
+2016,income,Portfolio investment liabilities,-2396.0
+2017,income,Portfolio investment liabilities,-2826.0
+2018,income,Portfolio investment liabilities,-2898.0
+2019,income,Portfolio investment liabilities,-2382.0
+2020,income,Portfolio investment liabilities,-1631.0
+2021,income,Portfolio investment liabilities,-1924.0
+2022,income,Portfolio investment liabilities,-2896.0
+2023,income,Portfolio investment liabilities,-3500.0
+2024,income,Portfolio investment liabilities,-3433.0
+2025,income,Portfolio investment liabilities,-3314.0
+2004,income,"Portfolio investment liabilities, Income on equity",-10.0
+2005,income,"Portfolio investment liabilities, Income on equity",-12.0
+2006,income,"Portfolio investment liabilities, Income on equity",-12.0
+2011,income,"Portfolio investment liabilities, Income on equity",-29.0
+2012,income,"Portfolio investment liabilities, Income on equity",-1093.0
+2013,income,"Portfolio investment liabilities, Income on equity",-966.0
+2014,income,"Portfolio investment liabilities, Income on equity",-912.0
+2015,income,"Portfolio investment liabilities, Income on equity",-1028.0
+2016,income,"Portfolio investment liabilities, Income on equity",-1154.0
+2017,income,"Portfolio investment liabilities, Income on equity",-1485.0
+2018,income,"Portfolio investment liabilities, Income on equity",-1395.0
+2019,income,"Portfolio investment liabilities, Income on equity",-1376.0
+2020,income,"Portfolio investment liabilities, Income on equity",-974.0
+2021,income,"Portfolio investment liabilities, Income on equity",-1200.0
+2022,income,"Portfolio investment liabilities, Income on equity",-1230.0
+2023,income,"Portfolio investment liabilities, Income on equity",-1365.0
+2024,income,"Portfolio investment liabilities, Income on equity",-1184.0
+2025,income,"Portfolio investment liabilities, Income on equity",-1010.0
+2004,income,"Portfolio investment liabilities, Income on debt",-814.0
+2005,income,"Portfolio investment liabilities, Income on debt",-940.0
+2006,income,"Portfolio investment liabilities, Income on debt",-828.0
+2011,income,"Portfolio investment liabilities, Income on debt",-2062.0
+2012,income,"Portfolio investment liabilities, Income on debt",-2061.0
+2013,income,"Portfolio investment liabilities, Income on debt",-1526.0
+2014,income,"Portfolio investment liabilities, Income on debt",-1519.0
+2015,income,"Portfolio investment liabilities, Income on debt",-1341.0
+2016,income,"Portfolio investment liabilities, Income on debt",-1242.0
+2017,income,"Portfolio investment liabilities, Income on debt",-1341.0
+2018,income,"Portfolio investment liabilities, Income on debt",-1503.0
+2019,income,"Portfolio investment liabilities, Income on debt",-1007.0
+2020,income,"Portfolio investment liabilities, Income on debt",-657.0
+2021,income,"Portfolio investment liabilities, Income on debt",-723.0
+2022,income,"Portfolio investment liabilities, Income on debt",-1666.0
+2023,income,"Portfolio investment liabilities, Income on debt",-2135.0
+2024,income,"Portfolio investment liabilities, Income on debt",-2249.0
+2025,income,"Portfolio investment liabilities, Income on debt",-2304.0
+2001,income,Other investment liabilities,-401.0
+2002,income,Other investment liabilities,-330.0
+2003,income,Other investment liabilities,-193.0
+2004,income,Other investment liabilities,-117.0
+2005,income,Other investment liabilities,-58.0
+2006,income,Other investment liabilities,-85.0
+2007,income,Other investment liabilities,-141.0
+2008,income,Other investment liabilities,-125.0
+2009,income,Other investment liabilities,-202.0
+2010,income,Other investment liabilities,-110.0
+2011,income,Other investment liabilities,-84.0
+2012,income,Other investment liabilities,-98.0
+2013,income,Other investment liabilities,-116.0
+2014,income,Other investment liabilities,-163.0
+2015,income,Other investment liabilities,-191.0
+2016,income,Other investment liabilities,-180.0
+2017,income,Other investment liabilities,-202.0
+2018,income,Other investment liabilities,-215.0
+2019,income,Other investment liabilities,-210.0
+2020,income,Other investment liabilities,-116.0
+2021,income,Other investment liabilities,-51.0
+2022,income,Other investment liabilities,-197.0
+2023,income,Other investment liabilities,-299.0
+2024,income,Other investment liabilities,-286.0
+2025,income,Other investment liabilities,-215.0

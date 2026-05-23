@@ -1,0 +1,644 @@
+Agencies,ProjID,ProjName,PrimTech,Lat,Long
+ARENA,2018/ARP130,Dynamic Limits DER Feasibility Study,DER Integration,-32.891803,151.708914
+ARENA,2018/ARP130,Dynamic Limits DER Feasibility Study,DER Integration,-31.960608,152.096965
+ARENA,2018/ARP160,Windlab LIDAR for Wind Forecast Projects,Market data and information,-20.766391,145.016585
+ARENA,2018/ARP161,Skycam and Multi-Model Solar Forecasting Project,Market data and information,-18.860024,142.671841
+ARENA,2018/ARP161,Skycam and Multi-Model Solar Forecasting Project,Market data and information,-35.843524,142.380095
+ARENA,2018/ARP161,Skycam and Multi-Model Solar Forecasting Project,Market data and information,-25.806897,144.717486
+ARENA,2018/ARP163,Wind Forecasting Demonstration Project,Market data and information,-33.625529,136.703706
+ARENA,2018/ARP167,"Wind Forecasting for the NEM at Pacific Hydro's Clements Gap, Crowlands and Taralga Wind Farms",Market data and information,-37.125843,143.155768
+ARENA,2018/ARP167,"Wind Forecasting for the NEM at Pacific Hydro's Clements Gap, Crowlands and Taralga Wind Farms",Market data and information,-34.423711,149.825828
+ARENA,2018/ARP170,Proa Analytics Solar Forecasts Project,Market data and information,-27.404804,151.648333
+ARENA,2018/ARP170,Proa Analytics Solar Forecasts Project,Market data and information,-34.688974,142.746093
+ARENA,2019/ARP025,Advancing Renewables with PCM Thermal Energy Storage Project,Enabling,-34.577825,138.930588
+ARENA,2019/ARP025,Advancing Renewables with PCM Thermal Energy Storage Project,Enabling,-19.257773,146.82357
+ARENA,2009/ASI062,CSIRO Concentrating Solar Thermal Foundation Project,Solar Thermal,-32.884541,151.728686
+ARENA,2009/BRD001,Sustainable Production Of High-Quality Second Generation Transport Fuels From Mallee Biomass By Pyrolysis And Biorefinery,Bioenergy,-31.949434,115.864609
+ARENA,2009/BRD002,Production of Generation 2 ethanol from sugarcane waste,Bioenergy,-33.814556,151.169895
+ARENA,2009/BRD003,Commerical demonstration of lignocellulosics to (unique) stable bio-crude oil,Bioenergy,-33.358219,151.2902
+ARENA,2010/ASI001,"1-A007: BT Imaging, Inline Inspection Tools for Photovoltaic Manufacturing",Solar PV,-33.898315,151.208623
+ARENA,2010/ASI002,"1-A039: ANU, Plasmonics for high efficiency solar cells",Solar PV,-35.276325,149.120265
+ARENA,2010/ASI003,"1-A041:  ANU, Next generation SLIVER solar cells",Solar PV,-35.276325,149.120265
+ARENA,2010/ASI004,1-A060:UNSW: Development and Commercialisation of High Efficiency Silicon Solar Cell Technology,Solar PV,-33.918005,151.233882
+ARENA,2010/ASI008,"1-A082:  UNSW, Overcoming the Fundamental Performance Limitations of Commercial Solar Cells",Solar PV,-33.910275,151.22337
+ARENA,2010/ASI009,"1-A086: Uni Queensland, New Materials and Architectures for Organic Solar Cells ?ö?ç?? Beyond the Shockley-Queisser Limit",Solar PV,-27.498305,153.013554
+ARENA,2010/ASI044,"2-A021: CSIRO, Solar Powered Air Turbine Systems",Solar Thermal,-32.884541,151.728686
+ARENA,2010/BRD001,Cane2Fuel: a biomass input system for producing second generation biofuels,Bioenergy,-27.497831,152.972554
+ARENA,2010/BRD002,Production of biofuel from microalgae,Bioenergy,-37.794541,144.956701
+ARENA,2010/BS0002,Geoscience Australia - Solar Research Data,Solar PV,-35.343257,149.158502
+ARENA,2010/RED002,King Island Renewable Energy Integration Project (KIREIP),Hybrid,-39.941278,143.873958
+ARENA,2011/ASI006,"1-A073A: CSIRO, Development of Advanced Solar Thermal Energy Storage Technologies for Integration with Energy-intensive Industrial Processes and Electricity Generation",Solar Thermal,-32.884541,151.728686
+ARENA,2011/ASI007,"1-A077A: CSIRO, Advanced steam-generating receivers for high - concentration solar collectors",Solar Thermal,-32.884541,151.728686
+ARENA,2011/ASI017,"1-UFA001:UNSW: Cost-effective GaAsP top solar cell grown on a high performance, low cost silicon solar cell",Solar PV,-33.910275,151.22337
+ARENA,2011/ASI035,"2-A001: UNSW, Tandem Quantum Dot Solar Cells",Solar PV,-33.910275,151.22337
+ARENA,2011/ASI037,"2-A004: UNSW, Forecasting and Characterising Grid Connected Solar Energy and Developing Synergies with Wind",Enabling,-33.910275,151.22337
+ARENA,2011/ASI038,"2-A005: UNSW, The Hot Carrier Solar Cell",Solar PV,-33.910275,151.22337
+ARENA,2011/ASI039,"2-A008: ANU, Industry Ready n-type Silicon Solar Cells",Solar PV,-35.276325,149.120265
+ARENA,2011/ASI041,"2-A015: CSIRO, Development of a ThermoelectricGenerator for Application in a CST Topping Cycle",Solar Thermal,-32.884541,151.728686
+ARENA,2011/ASI042,"2-A017: ANU, Roof-mounted hybrid CST system for distributed generation of heating, cooling and electricity",Solar Thermal,-35.276325,149.120265
+ARENA,2011/ASI043,"2-A018: U. Melbourne, Printing solar cells ?ö?ç?? A manufacturing proposition for Australia",Solar PV,-37.797932,144.962307
+ARENA,2011/ASI045,"2-A023: U. Sydney, Upconversion of the solar spectrum for improved PV energy conversion",Solar PV,-33.867487,151.20699
+ARENA,2011/PFD001,"1-F002 Xiaojing Hao, Cu2ZnSnS4 (CZTS) Thin Film Solar Cell: A Novel Alternative for TW-level Thin Film PV",Solar PV,-33.910275,151.22337
+ARENA,2011/PFD002,"1-F011 Ming Liu, High performance thermal energy storage systems with high temperature phase change material",Enabling,-34.810967,138.620623
+ARENA,2011/PFD003,"1-F014 Wallace Wing Ho Wong, Synthesis of organic photovoltaic materials using continuous flow methods",Solar PV,-37.797932,144.962307
+ARENA,2011/PFD004,"1-S004-Uni Newcastle Natalie Holmes, Development of novel water-based materials for commercial organic photovoltaics",Solar PV,-32.925689,151.77792
+ARENA,2011/PFD005,"1-S005: UNSW Jonathan Dore, Intermediate layers for laser crystallised silicon thin film solar cells on glass",Solar PV,-33.910275,151.22337
+ARENA,2011/PFD006,"1-S008-ANU Thomas Ratcliff, Development and characterisation of ion implantation for all back contact solar cells",Solar PV,-35.274441,149.120405
+ARENA,2011/PFD007,"1-S007-UNSW Nicholas Boerema, Analysis of the potential for liquid metal heat transfer fluids to improve the commercial competitiveness and dispatchability of concentrating solar power",Enabling,-33.910275,151.22337
+ARENA,2012/ASI005,"1-A065: Uni Newcastle,Fabrication of Thermionic Devices Using Directional Solidification/Sintering Processes for High Temperature CST Applications",Solar Thermal,-32.925689,151.77792
+ARENA,2012/ASI010,"1-GER001: Uni Melbourne, Enhancing Efficiencies in Printed Solar Cells by Controlling Morphology Development",Solar PV,-37.797932,144.962307
+ARENA,2012/ASI011,"1-GER003: UNSW, Si nanocrystals embedded in silicon oxide and nitride as nanoscale heterojunction for third generation photovoltaics",Solar PV,-33.910275,151.22337
+ARENA,2012/ASI012,"1-GER005: Blue Scope Steel, Expanding the Value Proposition for Building Integrated Photovoltaics (BIPV): Thin Film Building Integrated Photovoltaic Thermal (BIPVT) retrofitting of buildings.",Solar PV,-34.400344,150.899829
+ARENA,2012/ASI013,"1-GER006: ANU, Local doping using Laser Chemical Processing (LCP) technology for advanced silicon solar cells",Solar PV,-35.276325,149.120265
+ARENA,2012/ASI014,"1-GER010: UNSW, Time- and spectrally resolved Photoluminescence for Silicon Solar Cell Characterisation",Solar PV,-33.910275,151.22337
+ARENA,2012/ASI018,1-UFA002:UNSW: Multi-Junction c-Si Solar Cells Based on Virtual Ge Substrates,Solar PV,-33.910275,151.22337
+ARENA,2012/ASI019,1-UFA003:UNSW:Towards a practical Hot Carrier Solar Cell,Solar PV,-33.910275,151.22337
+ARENA,2012/ASI020,1-UFA004:CSIRO:Solar-driven Supercritical CO2 Brayton Cycle,Solar Thermal,-32.884541,151.728686
+ARENA,2012/ASI021,1-UFA005:CSIRO: Improving Translation Models for Predicting the Energy Yield of Photovoltaic Power Systems,Solar PV,-32.884541,151.728686
+ARENA,2012/ASI022,1-UFA006:ANU: Improved High-Temperature Receivers for Dish Concentrators,Solar Thermal,-35.283,149.113
+ARENA,2012/ASI023,1-UFA007:CSIRO:Integrated Solar Radiation Data Sources over Australia,Enabling,-38.031627,145.143114
+ARENA,2012/ASI026,1-USO018:Brisbane Materials Technology Pty Ltd: A pilot-scale plant for the production of solar anti-reflection (AR) coatings,Solar PV,-27.579506,152.948214
+ARENA,2012/ASI027,1-USO022: APVA: Development of a Climate-based PV Module Rating Scheme,Solar PV,-33.910275,151.22337
+ARENA,2012/ASI028,1-USO026: APVA: Consumer & Utility Interest in Active Participation in the Distributed Energy Market,Enabling,-33.910275,151.22337
+ARENA,2012/ASI031,1-USO032:CSIRO: Plug and Play Solar Power: Simplifying the Integration of Solar Energy in Hybrid Applications,Solar PV,-32.884541,151.728686
+ARENA,2012/ASI036,"2-A002: UNSW, 40% Efficient Photovoltaic ?ö?ç?úPower Cube?ö?ç?ÿ Power Tower Receiver",Solar PV,-33.910275,151.22337
+ARENA,2012/ASI040,"2-A014A: UNSW/Suntech, Next Generation Crystalline Silicon on Glass Modules",Solar PV,-33.910275,151.22337
+ARENA,2012/ASI046,"3-A003: Vast Solar, Validation of Performance modelling for 1.2MWth solar array with high temperature receiver and integrated thermal storage",Solar Thermal,-33.404878,147.648328
+ARENA,2012/ASI048,"3-A006: CSIRO, Evaluation and Demonstration of Hybridisation of Concentrated Solar Thermal (CST) Technology with Carbon Capture and Storage (CCS)",Solar Thermal,-32.884541,151.728686
+ARENA,2012/ASI049,"3-A009: CAT Projects, Analysis of Variations in Instantaneous Weather Effects across the Geographic Boundaries of an Electricity Grid, and the Development of an Improved Estimate for Maximum Solar Grid Penetration without Energy Storage",Enabling,-23.75759,133.882726
+ARENA,2012/ASI051,"3-A012A: CSIRO, Hybrid Concentrating Solar Thermal Systems for Large-Scale Applications",Solar Thermal,-32.891803,151.708914
+ARENA,2012/ASI053,"3-A017: Granite Power, Solar Supercritical Organic Rankine Cycle for Power and Industrial Heat",Solar Thermal,-32.893846,151.670642
+ARENA,2012/ASI054,"3-A018: CSIRO, Solar Hybrid Fuels",Solar Thermal,-32.884541,151.728686
+ARENA,2012/ASI055,"3-A019: Barbara Hardy Institute, Development of high temperature phase change storage systems and a test facility",Enabling,-34.810967,138.620623
+ARENA,2012/ASI056,"3-A020: CSIRO, Solar Energy Management System (SEM) for Utilities",Enabling,-32.891803,151.708914
+ARENA,2012/ASI060,Staged Development of an Interactive Australian PV Solar Mapping Resourcep,Enabling,-33.910275,151.22337
+ARENA,2012/ASI061,AUSTELA- Improving accessibility of System Advisor Model,Enabling,-33.885842,151.200362
+ARENA,2012/ASI063,Utility-scale solar installations: social license to operate in Australia,Enabling,-33.834769,151.209102
+ARENA,2012/ASI064,MOR - Community owned solar,Enabling,-34.88886,138.67721
+ARENA,2012/ASI065,The Daly River Generator-Solar-Load-Optimisation Project,Solar PV,-13.74953,130.69292
+ARENA,2012/ERP001,Renewable Energy Production from Almond Waste,Bioenergy,-34.43926,140.593191
+ARENA,2012/ERP004,Low cost building-integrated photovoltaics (BIPV) for Australian residential and commercial/industrial rooftop power generation,Solar PV,-34.400344,150.899829
+ARENA,2012/ERP005,The Perth Wave Energy Project (PWEP),Marine,-32.241153,115.682045
+ARENA,2012/ERP006,Data Fusion and Machine Learning for Geothermal Target Exploration and Measurement,Geothermal,-33.877487,151.20799
+ARENA,2012/ERP008,Feasibility Study of Australian Feedstock and Refining Capacity to produce Alternative Aviation Fuel,Bioenergy,-33.925164,151.185601
+ARENA,2012/ERP010,An Advanced Biomass Gasification Technology,Bioenergy,-31.994499,115.888595
+ARENA,2012/ERP012,SACGER - Reservoir Quality in Sedimentary Geothermal Resources,Geothermal,-34.9194,138.60566
+ARENA,2012/ERP013,Achieving cost-effective abatement from Australian electricity generation,Enabling,-37.797121,144.965009
+ARENA,2012/ERP014,Developing Fish Friendly Design Criteria for small hydro facilities,Enabling,-33.885506,151.277797
+ARENA,2012/JCU001,High Energy Algal Fuels Project,Bioenergy,-19.329393,146.761099
+ARENA,2012/PFD001,"2-S008: UNSW, Jae Sung Yun, Material characteristics of crystalline Si thin-film solar cells",Solar PV,-33.910275,151.22337
+ARENA,2012/PFD008,"2-F005: Wensheng Yan, More cost-effective, large-area amorphous silicon ultrathin film plasmonic solar cells towards industrial application",Solar PV,-37.822195,145.037707
+ARENA,2012/PFD009,"2-F007: Thilini Ishwara, Solar efficiency optimisation of hybrid organic-inorganic solar cells",Solar PV,-33.910275,151.22337
+ARENA,2012/PFD011,"2-F013: Philip van Eyk, Solar gasification ?ö?ç?? using renewable energy to produce lower-carbon, high-value liquid transport fuels using low grade carbonaceous feedstocks",Solar Thermal,-34.919054,138.605412
+ARENA,2012/PFD012,"2-F020: Niraj Lal, Light trapping for tandem solar cells",Solar PV,-35.274441,149.120405
+ARENA,2012/PFD015,"2-S003 Monash Alex Pascoe, Trapping, detrapping and loss mechanisms in dye sensitised solar cells",Solar PV,-37.915956,145.138736
+ARENA,2012/PFD016,"2-S004: Uni of Sydney, Bjorn Sturmberg, Nanostructured and metamaterial photovoltaics",Solar PV,-33.867487,151.20699
+ARENA,2012/PFD017,"2-S006: RMIT, Ahmad Mojiri, Spectral beam splitting for improving the energy conversion efficiency in hybrid concentrating solar collectors",Solar Thermal,-37.80828,144.963642
+ARENA,2012/PFD018,"2-S010: Uni South Australia, Shane Sheoran, A direct contact heat exchanger for high temperature thermal storage in solar power plants",Solar Thermal,-34.810967,138.620623
+ARENA,2012/PFD019,"2-S011: UNSW, Simon Heslop, Facilitating high penetration PV integration into the electricity network",Enabling,-33.910275,151.22337
+ARENA,2012/PFD020,"2-S013: Murdoch, Tobias Prosin, Development of a state of the art solid particle receiver CST system, optimised for commercialisation in the Australian market",Solar Thermal,-32.069295,115.833852
+ARENA,2012/PFD021,"2-S014: ANU, James Bullock, Understanding and optimising dielectric charge in industry applicable solar cells",Solar PV,-35.274441,149.120405
+ARENA,2012/PFD022,"2-S015: Uni Newcastle, Dylan Cuskelly, Thermionic emissions from MAX phase materials",Solar Thermal,-32.925689,151.77792
+ARENA,2012/PFD023,"2-S016: Uni Wollongong, Joseph Giorgio, Light-weight and flexible solid-state dye-sensitised solar cells",Solar PV,-34.405422,150.878403
+ARENA,2012/PFD024,"3-F001: Robert Patterson, Colloidal nanoparticle solar cells: a route to low cost, high efficiency photovoltaics",Solar PV,-33.910275,151.22337
+ARENA,2012/PFD025,"3-F003: Supriya Pillai, Plasmonic Rear Reflectors for Solar Cells",Solar PV,-33.910275,151.22337
+ARENA,2012/PFD026,"3-F004: Wai Kean Yap, A pilot study on load control and optimisation for a remote area solar-diesel hybrid power system implementing AI smart grids",Hybrid,-12.371963,130.868834
+ARENA,2012/PFD027,"3-F005: Fiacre Rougieux, Cost effective silicon solar cells using Upgraded-Metallurgical-Grade silicon",Solar PV,-35.274441,149.120405
+ARENA,2012/PFD029,"3-S001: Uni of Newcastle, Mitchell Wilson, Cost effective industrial scale synthesis of regio regular poly-3-hexylthiophene using flow chemistry techniques",Solar PV,-32.925689,151.77792
+ARENA,2012/PFD030,"3-S002: Swinburne Uni, Ben Ekman, Development of Hybrid Solar Thermal Reactors for Materials Processing",Solar Thermal,-37.822195,145.037707
+ARENA,2012/PFD031,"4-F001: Wenxian Li, Oxide semiconductors for solar energy conversion: engineering of key performance-related properties",Solar PV,-33.750643,150.710639
+ARENA,2012/PFD034,"4-F004: Benjamin Mashford, A highly efficient and stable photoluminescent nanocrystal ink for improved spectral response in Si Solar cells",Solar PV,-37.822195,145.037707
+ARENA,2012/PFD035,"4-S002: UNSW, Clare Disney, Plasmonic light trapping for solar cells",Solar PV,-33.910275,151.22337
+ARENA,2012/PFD036,"5-F002: Nguan Hwee Steven Tay, Dynamic PCM systems for high temperature thermal storage",Enabling,-34.810967,138.620623
+ARENA,2012/PFD037,"5-F004: Rowan MacQueen, Ultrafast spectroscopy for third generation photovoltaics",Solar PV,-33.871592,151.208786
+ARENA,2012/PFD039,"5-F006: Henner Kampwerth, Ultrafast PL-Spectroscopy for Solar Cell Characterisation",Solar PV,-33.910275,151.22337
+ARENA,2012/PFD040,"5-F007: Andreas Fell, High efficiency very low thermal budget silicon solar cells by laser processing",Solar PV,-35.274441,149.120405
+ARENA,2012/PFD041,"5-S002: UNSW, Jianshu Han - High efficiency mono-crystalline thin-Si solar cells",Solar PV,-33.910275,151.22337
+ARENA,2012/PFD052,"6-F028: Binesh Puthen Veettil, Photothermal deflection spectroscopy: A turnkey solution",Solar PV,-33.910275,151.22337
+ARENA,2012/PFD054,"6-S001: UNSW, Chao Shen, Power loss analysis via photoluminescence imaging (on silicon solar cells)",Solar PV,-33.910275,151.22337
+ARENA,2012/PFD058,"6-S009: Uni Newcastle, Anthony Rawson, Modelling and applications of advanced thermal storage materials",Enabling,-32.925689,151.77792
+ARENA,2012/PFD059,"6-S011: UNSW, Adrian Shi, Copper-Zinc-Tin-Sulfide (CTZS) thin-film solar cell on stell for BIPV application",Solar PV,-33.910275,151.22337
+ARENA,2012/PFD061,"6-S018: UNSW, Andrew Danos, The role of spin in triplet-triplet annihilation upconversion",Solar PV,-33.868487,151.20699
+ARENA,2012/PFD081,"1-URE002: CSIRO, Benjamin Duck, Work at US NREL on improving translation models for the predicting the energy yield of photovoltaic power systems",Solar PV,-32.884541,151.728686
+ARENA,2012/PFD082,"1-URE003: CSIRO, Jacek Jasieniak, Work at Uni California Santa Barbara on Development of solution deposited thin-film tandem solar cells",Solar PV,-37.920354,145.131863
+ARENA,2012/PFD083,"2-IRE001: AECOM, Jennifer Riesz, Visit US NREL to investigate integration of renewables into power systems including the energy market",Enabling,-33.885842,151.200362
+ARENA,2012/PFD086,1-URE001: Dr John Pye - Better Modelling of Concentrated Solar Thermal Power Plants,Solar Thermal,-35.275111,149.121036
+ARENA,2012/PFD087,1-IRE001: Christopher Felix Venn: Integration of State-of-the-art Technologies into Wizard Power?ö?ç?ûs Big Dish,Solar Thermal,-35.274751,149.123682
+ARENA,2012/REVC001,Southern Cross Renewable Energy Fund,Enabling,-33.863904,151.208514
+ARENA,2013/ABI001,Biomass to Biocrude: Producing Advanced Drop-in Fuels for Australia,Bioenergy,-33.358219,151.2902
+ARENA,2013/ABI002,Advancing Established and Integrated Marine Microalgae Biofuel to Commercialisation,Bioenergy,-32.992818,137.57034
+ARENA,2013/ASI015,1-SRI001: UNSW: Australia-US Institute for Advanced Photovoltaics (AUSIAPV),Solar PV,-33.910275,151.22337
+ARENA,2013/ASI016,1-SRI002: CSIRO: Australian Solar Thermal Research Institute (ASTRI),Solar Thermal,-32.884541,151.728686
+ARENA,2013/ASI024,1-USO006:CSIRO: Australian Solar Energy Forecasting System (ASEFS) ?ö?ç?? Phase 1,Enabling,-32.884541,151.728686
+ARENA,2013/ASI025,1-USO012:Australian National University : Machine-learning-based forecasting of distributed solar energy production,Enabling,-35.27798,149.115354
+ARENA,2013/ASI029,"1-USO028:UNSW : Low-cost, high-efficiency Copper-Zinc-Tin-Sulphide (CZTS) on silicon multi-junction solar cells",Solar PV,-33.910275,151.22337
+ARENA,2013/ASI030,1-USO031:CSIRO: Optimisation of Central Receivers for Advanced Power Cycles,Solar Thermal,-32.884541,151.728686
+ARENA,2013/ASI032,1-USO033:CSIRO: Development of Combined Cycle using solar reformed gas in North Western Australia,Solar Thermal,-32.884541,151.728686
+ARENA,2013/ASI033,1-USO034:UNSW : Tools for design and scale-up of solar thermochemical reactors,Solar Thermal,-33.910275,151.22337
+ARENA,2013/ASI034,1-USOMUSIC: RMIT University: Micro-urban solar integrated concentrators (MUSIC),Solar Thermal,-37.80828,144.963642
+ARENA,2013/ASI047,"3-A004: RayGen Resources, Central Receiver CPV Pilot Project ?ö?ç?? Stage",Solar PV,-36.708807,143.960603
+ARENA,2013/ASI057,"3-GER001: Uni South Australia, New photocathodes for solar hydrogen production",Solar Thermal,-34.80977,138.618937
+ARENA,2013/ASI058,"3-GER002: ANU, High Quality Laser Doping for Solar Cells Through Improved Characterisation",Solar PV,-35.274441,149.120405
+ARENA,2013/ASI059,"3-GER003: Suntech, Novel Texture Processes for the Latest Industrial Wafer and Advanced Cell Concepts",Solar PV,-33.941595,151.204156
+ARENA,2013/BS0003,"Moree Solar Farm - Design, construction and build 56MWAC PV",Large-scale solar,-29.569665,149.86672
+ARENA,2013/BS0006,AGL Solar PV project,Large-scale solar,-31.566251,147.070874
+ARENA,2013/CAR001,Northern Territory Solar Energy Transformation Program (SETuP),Hybrid,-12.463993,130.840146
+ARENA,2013/CAR002,Flinders Island Hybrid Energy Hub Project,Hybrid,-40.115579,148.029124
+ARENA,2013/CAR008,Rottnest Island Renewable Energy Water Nexus Project,Hybrid,-32.003569,115.544088
+ARENA,2013/ERP002,Potential Network Benefits of Solar Thermal Electricity Generation in the NEM,Solar Thermal,-33.878487,151.20599
+ARENA,2013/ERP011,UltraBattery Distributed Solar PV Support and UltraBattery for RAPS,Battery Storage,-33.863913,151.203831
+ARENA,2013/ERP021,A Low Emission Biofuel Technology,Bioenergy,-31.994499,115.888595
+ARENA,2013/ERP024,Preparatory Activities for the Development of an off grid renewable energy island solution to reduce diesel dependency using mine dewatering in the Pilbara,Bioenergy,-23.016137,121.364126
+ARENA,2013/ERP025,The Australian Wave Energy Atlas,Marine,-42.886737,147.338067
+ARENA,2013/ERP033,Perenjori Dispatchable Solar Thermal Power Project,Solar Thermal,-29.442398,116.287434
+ARENA,2013/ERP040,Enhanced Australian Participation in IEA Bioenergy Tasks and Activities,Bioenergy,-33.773059,151.160883
+ARENA,2013/ERP044,Redeployable Hybrid Power Generation,Hybrid,-33.839858,151.209562
+ARENA,2013/ERP047,Cloud Detection and Prediction for Maximising Solar PV Utilisation in Off-grid Hybrid Power Systems,Enabling,-23.767933,133.869251
+ARENA,2013/ERP049,Future-proofing in Australia?ö?ç?ûs Electricity Distribution Industry?ö?ç?? Stage I,Enabling,-37.8105,144.970396
+ARENA,2013/ERP055,Community Energy Strategy - Catalysing Community Renewables in Australia,Enabling,-33.883523,151.198904
+ARENA,2013/ERP070,"Vast Solar 6MWth grid connected CSP research, development and demonstration facility with thermal energy storage",Solar Thermal,-33.404878,147.648328
+ARENA,2013/PFD010,"2-F008: Matthew Edwards, Development of commercially viable high efficiency solar cells and module",Solar PV,-33.910275,151.22337
+ARENA,2013/PFD013,"2-F021: Kallista Sears, ITO free, efficient organic solar cells based on textured graphene electrodes",Solar PV,-37.920354,145.131863
+ARENA,2013/PFD028,"3-F006: Andrew Thomson, Reducing the cost of solar power by thin-film engineering strategies applied to crystalline silicon photovoltaic devices and modules",Solar PV,-35.274441,149.120405
+ARENA,2013/PFD032,"4-F002: Ngwe Soe Josh Zin, Development of high-efficiency interdigitated back-contact silicon solar cells with advanced fabrication techniques and simplified processes",Solar PV,-35.274441,149.120405
+ARENA,2013/PFD038,"5-F005: Krishna Feron, Harnessing energy losses in organic solar cells",Solar PV,-32.925689,151.77792
+ARENA,2013/PFD042,"6-F001: Katherine Booker, Metal-assisted chemical etching of Sliver solar cells",Solar PV,-35.274441,149.120405
+ARENA,2013/PFD043,"6-F002: Ning Song (was Xi Wang), Inkjet - enabled silicon solar cell fabrication - from lab to pilot production",Solar PV,-33.910275,151.22337
+ARENA,2013/PFD044,"6-F007: Xinbo Yang, High efficiency n-type silicon solar cells with local laser doping by laser chemical processing (LCP)",Solar PV,-35.274441,149.120405
+ARENA,2013/PFD045,"6-F008: Jose Zapata, Model predictive control of thermal components in point focus solar thermal systems",Solar Thermal,-35.274441,149.120405
+ARENA,2013/PFD046,"6-F010: Nicholas Grant, High efficiency low cost silicon cells with anodically grown silicon dioxide films",Solar PV,-35.274441,149.120405
+ARENA,2013/PFD047,"6-F019: Yuan Fang, Development of low bandgap polymeric acceptors for organic solar cells",Solar PV,-27.498305,153.013554
+ARENA,2013/PFD048,"6-F020: Andrew Nattestad, Integration of high efficient photon up-conversion systems with organic solar cells for third generation photovoltaic applications",Solar PV,-34.405422,150.878403
+ARENA,2013/PFD049,"6-F022: Ajay K Pandey, Singlet exciton fission and multiexciton harvesting in organic solar cells",Solar PV,-27.459852,152.863574
+ARENA,2013/PFD050,"6-F023: Hasitha Weerasinghe, Flexible Barrier Encapsulation for printed solar cells",Solar PV,-37.920354,145.131863
+ARENA,2013/PFD051,"6-F027: Sammy Lee, The development of novel nanocluster-based buffer layers for multi-junction solar cells",Solar PV,-33.910275,151.22337
+ARENA,2013/PFD053,"6-F029: Shuhua Peng, Transparent and conductive graphene/polymer thin films with targeted applications in organic photovoltaics",Solar PV,-37.797932,144.962307
+ARENA,2013/PFD056,"6-S007: ANU, Thomas Allen, Negatively-charged dielectric films for surface passivation of silicon solar cells",Solar PV,-35.274441,149.120405
+ARENA,2013/PFD060,"6-S017: Uni Melbourne, Kyra Schwarz, Time-resolved microspectroscopy of conjugated polymer films for organic photovoltaic applications",Solar PV,-37.797932,144.962307
+ARENA,2013/PFD062,"7-F002: Martin Belusko, Fast response dispatchable thermal storage for high temperature CSP",Solar Thermal,-34.801988,138.667893
+ARENA,2013/PFD064,"7-F008: Bernard Mitchell, Advanced and industry-ready photoluminescence characterisation of silicon bricks",Solar PV,-33.910275,151.22337
+ARENA,2013/PFD065,"7-F010: Hangtao Cui Bi, Thermal evaporation of high efficiency Cu2ZnSnS4 (CZTS) solar cells",Solar PV,-33.910275,151.22337
+ARENA,2013/PFD066,"7-F011: David Payne, Nanosphere lithography for controlled fabrication of large-area plasmonic films",Solar PV,-33.910275,151.22337
+ARENA,2013/PFD067,"7-F012: , Yajie Jiang, Characterisation of light distribution within silicon solar cells",Solar PV,-33.910275,151.22337
+ARENA,2013/PFD068,"7-F017: Murad Tarebjee, Singlet Heterofission in Organic Dimers: A path to efficient organic photovoltaics",Solar PV,-33.910275,151.22337
+ARENA,2013/PFD069,"7-F018: Tianshi Qin, Novel solution-processed multilayer D-I-A organic solar cells: Can organic photovoltaic cells potentially be as efficient as their inorganic counterparts?",Solar PV,-37.920354,145.131863
+ARENA,2013/PFD070,"7-F019: Peerapat Vithayasrichareon, Generation investment and policy support frameworks for facilitating high solar generation penetrations in Australia?ö?ç?ûs electricity industry",Enabling,-33.910275,151.22337
+ARENA,2013/PFD071,"7-F020: Timothy Jones, Lateral optimisation of dye-sensitised thin film photovoltaics",Solar PV,-32.884541,151.728686
+ARENA,2013/PFD072,"7-F023: Zi Ouyang, Self patterning dielectric/metal nanostructures for advanced passivation and light trapping for high efficiency solar cells",Solar PV,-33.910275,151.22337
+ARENA,2013/PFD073,"7-S001: UNSW, Simon Chung, Practical realisation of a hot carrier solar cell using hafnium nitride",Solar PV,-33.910275,151.22337
+ARENA,2013/PFD074,"7-S002: UNSW, Alexander To, Ultra-thin Silicon Solar Cells",Solar PV,-33.910275,151.22337
+ARENA,2013/PFD075,"7-S007: UNSW, Gough Lui, Feasibility and design study of point of use low energy photovoitaic-powered ultraviolet light emitting diode water disinfection",Solar PV,-33.910275,151.22337
+ARENA,2013/PFD076,"7-S009: UNSW, Tom Keevers, The impact of spin on fundamental optoelectronic processes in organic semiconductors",Solar PV,-33.868487,151.20699
+ARENA,2013/PFD077,"7-S010: UNSW, Edward Law, Optimising Concentrated Solar Thermal Operation Using Solar Energy Forecasting",Enabling,-33.910275,151.22337
+ARENA,2013/PFD078,"7-S011: University of Sydney, Alexandre La Fontaine, High temperature stainless steels for concentrated solar power",Solar Thermal,-33.867487,151.20699
+ARENA,2013/PFD080,"7-S013: UNSW, Sisi Wang, Laser technology in the fabrication of high performance solar cells",Solar PV,-33.910275,151.22337
+ARENA,2013/PFD084,"2-IRE002: Uni SA, Ming Liu, Investigation of aluminium alloys as phase change materials for CSP plants running supercritical CO2 power cycles",Solar Thermal,-34.810967,138.620623
+ARENA,2013/PFD085,"6-F004: Viktoras Dryza, Guiding the rational design of organic dye sensitisers for solar cell technologies",Solar PV,-37.797932,144.962307
+ARENA,2013/RAR003,Lakeland Solar & Storage Project,Large-scale solar,-15.87243,144.861692
+ARENA,2013/RAR004,Lord Howe Island Hybrid Renewable Project,Hybrid,-31.529951,159.074533
+ARENA,2013/RAR005,Coober Pedy Renewable Diesel Hybrid,Hybrid,-29.019429,134.769263
+ARENA,2013/RAR012,Barcaldine 25MW(DC) Remote Community Solar Project,Large-scale solar,-23.552032,145.326105
+ARENA,2013/RAR034,Karratha Airport Solar Project,Large-scale solar,-20.706288,116.773562
+ARENA,2013/RAR044,DeGrussa Solar PV & Storage Project,Solar PV,-25.551232,119.315476
+ARENA,2013/RAR052,Normanton Solar Farm,Large-scale solar,-17.700551,141.087087
+ARENA,2013/RAR061,Yulara 1.8MW Dispersed Solar PV Project,Solar PV,-25.241438,130.986002
+ARENA,2013/SHA001,"Australian involvement in the IEA PV Power Systems, and solar heating and cooling implementing agreements",Solar PV,-33.910275,151.22337
+ARENA,2014/ASC001,Gullen Range Solar Farm - co-located with Gullen Range Wind Farm,Large-scale solar,-34.605567,149.462641
+ARENA,2014/ASC004,"30MW Concentrating Solar Thermal power plant with thermal energy storage, Jemalong NSW",Solar Thermal,-33.388032,147.670332
+ARENA,2014/ERP056,Alkimos Beach Energy Storage Project,Enabling,-31.622827,115.676959
+ARENA,2014/ERP058,Redeployable Solar First Deployment,Hybrid,-26.244949,149.551579
+ARENA,2014/ERP065,Towards an Australian capability in arrays of ocean wave-power machines,Marine,-37.822195,145.037707
+ARENA,2014/ERP066,A Commercially Viable Application of Electricity Storage for Australia?ö?ç?ûs National Electricity Grid.,Enabling,-35.332658,149.170805
+ARENA,2014/ERP068,Energy Storage for Commercial Renewable Integration - South Australia,Enabling,-29.628324,135.471188
+ARENA,2014/ERP069,Asia-Pacific Solar Research Conference 2014,Solar PV,-33.910275,151.22337
+ARENA,2014/ERP070,Australian Renewable Energy Mapping Infrastructure (AREMI),Enabling,-33.885842,151.200362
+ARENA,2014/ERP071,Mapping Potential Network Opportunities for Renewable Energy & DM,Enabling,-33.883523,151.198904
+ARENA,2014/ERP072,Establish the SERREE (South East Region of Renewable Energy Excellence) Industry Cluster,Enabling,-35.271897,149.129716
+ARENA,2014/ERP077,Pathways to Prosperity in 2050: How Australia can thrive in a low carbon world (renewable energy components),Enabling,-37.81503,144.971586
+ARENA,2014/ERP078,RayGen Concentrating Solar PV (CSVP) - Stage 3,Solar PV,-36.708807,143.960603
+ARENA,2014/ERP081,Testing the performance of lithium-ion batteries,Battery Storage,-35.248587,149.097521
+ARENA,2014/ERP082,Future-Proofing In Australia's Electricity Distribution Industry - Stage 2,Enabling,-37.810726,144.970248
+ARENA,2014/ERP083,Establishing the Australian Energy Storage Knowledge Bank,Enabling,-34.911473,138.572471
+ARENA,2014/ERP102,Clean Energy Australia - Annual Renewable Energy Industry Analysis,Enabling,-37.810726,144.970248
+ARENA,2014/ERP104,AIRAH PUSCH Australia - Promoting the Use of Solar Cooling and Heating in Australia,Solar Thermal,-32.884623,151.728348
+ARENA,2014/ERP108,Toolkit for Renewable Energy Financing,Enabling,-37.81344,144.972472
+ARENA,2014/ERP119,Pilot a commercial and operational model for integrating solar and storage to provide energy services to residential customers.,Enabling,-19.257315,146.816301
+ARENA,2014/ERP120,Facilitating Local Network Charges and Virtual Net Metering,Enabling,-33.883523,151.198904
+ARENA,2014/RND003,Advanced Surface and Contact Technologies for Industrial Silicon Photovoltaics,Solar PV,-35.274441,149.120405
+ARENA,2014/RND005,High-temperature solar thermal energy storage via manganese-oxide based redox cycling,Solar Thermal,-35.274441,149.120405
+ARENA,2014/RND008,PV Modules for The Australian Environment (PV-MATE),Solar PV,-35.274441,149.120405
+ARENA,2014/RND009,"Eliminating material quality barriers to low cost, very high efficiency silicon solar cells and modules",Solar PV,-35.274441,149.120405
+ARENA,2014/RND010,Bladed Receivers with Active Airflow Control,Solar Thermal,-35.274441,149.120405
+ARENA,2014/RND020,Novel Concepts for Low Cost Small Heliostats in Remote Installations,Solar Thermal,-32.884541,151.728686
+ARENA,2014/RND032,Virtual Power Station 2,Enabling,-28.025585,152.656099
+ARENA,2014/RND068,Towards Ultimate Performance Commercial Silicon Solar Cells,Solar PV,-33.910275,151.22337
+ARENA,2014/RND075,High-Efficiency Silicon/Perovskite Tandem Cells and Modules: Demonstration and Commercial Evaluation,Solar PV,-33.910275,151.22337
+ARENA,2014/RND097,Advanced Recombination-based Loss Analysis Methods for Silicon Wafer and Silicon Solar Cells,Solar PV,-33.910275,151.22337
+ARENA,2014/RND106,Develop lithium-sulfur batteries for large-scale electrical energy storage,Battery Storage,-33.882676,151.201116
+ARENA,2015/ARP003,Adapting Renewal Energy Concepts to Irrigated Sugarcane Production at Bundaberg,Enabling,-24.865042,152.354183
+ARENA,2015/ARP006,New England Renewable Hub (Feasibility Study),Enabling,-30.453268,151.282306
+ARENA,2015/ARP007,Garden Island Microgrid Project,Marine,-32.241153,115.682045
+ARENA,2015/ARP008,Project Fulfil,Enabling,-33.863913,151.203831
+ARENA,2015/ARP010,Solar Monitoring for Better Energy Outcomes for Residential Solar PV,Solar PV,-33.893322,151.205073
+ARENA,2015/ARP012,Pilot Landfill Solar PV Project,Solar PV,-37.586755,145.046446
+ARENA,2015/ARP013,Microbiogen Biocatalyst Optimisation & Deployment Project for efficient production of biofuels,Bioenergy,-33.80998,151.146207
+ARENA,2015/ARP016,Kennedy Energy Park (KEP),Hybrid,-18.191589,145.9695
+ARENA,2015/ARP017,Ethtec Cellulosic Ethanol Pilot Plant,Bioenergy,-18.860024,142.671841
+ARENA,2015/ARP018,Expansion of the Environmental Upgrade Agreement (EUA) market in Victoria,Solar PV,-37.786761,145.121166
+ARENA,2015/ERP008,Investment Case for the Pentland Integrated Biofuels Project,Bioenergy,-20.495588,145.87821
+ARENA,2015/ERP016,AusPERM - Structural permeability mapping in Australia: De-risking geothermal exploration ahead of drilling,Geothermal,-34.919054,138.605412
+ARENA,2015/ERP017,Specifying Guidelines for Assessing Perovskite Solar Cells,Solar PV,-32.884541,151.728686
+ARENA,2015/ERP022,Delivering higher renewable penetration in new land and housing developments through off-grid microgrids,Enabling,-32.676689,151.353831
+ARENA,2015/ERP025,"Feasibility and product design for inner city brown fields off-grid solar (called ""Here Comes The Sun"" HCS)",Solar PV,-37.773126,144.961413
+ARENA,2015/ERP026,Cost of Energy Study for the Bombora Wave Energy Converter system,Marine,-31.993091,115.889717
+ARENA,2015/ERP027,Perovskite Solar Cells: Establishing the Basis for Industrial Development,Solar PV,-35.34077,149.250448
+ARENA,2015/ERP028,Project Rudolf (Measure) - Australian Biofuels from Australian Resources,Bioenergy,-23.81313,151.145743
+ARENA,2015/ERP029,Feasibility study to validate the construction of a large-scale pumped storage hydroelectric energy storage facility at a remote disused mine site in Northern Queensland,Pumped Hydro Energy Storage (PHES),-18.860024,142.671841
+ARENA,2015/ERP031,An Atlas of Pumped Hydro Energy Storage,Pumped Hydro Energy Storage (PHES),-35.274441,149.120405
+ARENA,2015/ERP035,Australian Biomass for Bioenergy Assessment (ABBA),Bioenergy,-35.310963,149.133061
+ARENA,2015/ERP037,Case Study and implementation of Solar Field Chilling and Heating Opportunities in a Hospital Environment,Enabling,-36.138388,144.748369
+ARENA,2015/ERP038,Addressing barriers to efficient renewable integration,Enabling,-33.910275,151.22337
+ARENA,2015/LSS005,Emu Downs Solar Farm Project,Large-scale solar,-30.469273,115.467914
+ARENA,2015/LSS008,Longreach Solar Farm,Large-scale solar,-23.446608,144.365726
+ARENA,2015/LSS011,Oakey Solar Farm,Large-scale solar,-27.404003,151.653065
+ARENA,2015/LSS023,Kidston Solar Project,Large-scale solar,-18.88399,144.143676
+ARENA,2015/LSS024,"White Rock Solar Farm, co-located with White Rock Wind Farm",Large-scale solar,-29.762777,151.555292
+ARENA,2015/LSS041,Manildra Solar Farm,Large-scale solar,-33.176019,148.718326
+ARENA,2015/LSS043,Griffith Solar Farm,Large-scale solar,-34.313585,146.11415
+ARENA,2015/LSS044,Dubbo Solar Hub,Large-scale solar,-32.272902,148.649825
+ARENA,2015/LSS045,Parkes Solar Farm,Large-scale solar,-33.112967,148.07637
+ARENA,2015/LSS046,Darling Downs Solar Farm,Large-scale solar,-27.124472,150.895189
+ARENA,2015/LSS061,Collinsville Solar PV Power Station Stage 1,Large-scale solar,-20.553048,147.84431
+ARENA,2015/LSS074,Whitsunday Solar Farm,Large-scale solar,-20.468159,147.749312
+ARENA,2015/RND003,A Robotic Vision System for Automatic Inspection and EvaluationÔö¼?íof Solar Plant Infrastructure,Solar PV,-35.274441,149.120405
+ARENA,2015/RND005,Real-time Operational Distributed PV Simulations for Distribution Network Service Providers,Solar PV,-35.274441,149.120405
+ARENA,2015/RND006,CONSORT: Consumer Energy Systems Providing Cost-Effective Grid Support,Enabling,-43.118177,147.311157
+ARENA,2015/RND022,"White Gum Valley: Increasing the uptake of solar PV, using energy storage, monitoring and grid-connected micro-grids within strata",Enabling,-32.058131,115.772321
+ARENA,2015/RND037,Integration of biogas from sugarcane residues in sugarcane transport and milling to reduce fossil fuel usage,Bioenergy,-27.476775,153.02816
+ARENA,2015/RND054,Integrating Concentrating Solar Thermal Energy into the Bayer Alumina Process,Solar Thermal,-34.919054,138.605412
+ARENA,2015/RND062,The Smart Sodium Storage System for Renewable Energy Storage,Battery Storage,-34.321001,150.867928
+ARENA,2015/RND081,Maximising solar PV with phase change thermal energy storage,Enabling,-34.810967,138.620623
+ARENA,2015/RND086,From single to multiple wave energy converters: Cost reduction through location and configuration optimisation,Marine,-31.979392,115.799436
+ARENA,2016/ARP001,"Networks Renewed: Using innovative inverter and battery storage technologies to improve network power quality, reduce costs and support solar PV",Enabling,-33.882676,151.201116
+ARENA,2016/ARP002,Tidal Turbine Reef Feasibility Study,Marine,-23.016137,121.364126
+ARENA,2016/ARP008,Goulburn Bioenergy Project,Bioenergy,-34.786054,149.681463
+ARENA,2016/ARP012,Narara Ecovillage smart grid,Hybrid,-33.391136,151.328085
+ARENA,2016/ARP016,Peak Demand Reduction using Solar and Storage,Battery Storage,-37.891907,145.143102
+ARENA,2016/ARP022,5MW Virtual Power Plant in South Australia (VPP-SA) Project,Enabling,-33.820587,151.184647
+ARENA,2016/ARP033,From Plan to Action: Communicating pathways to deep decarbonisation through electric vehicles and renewable energy technologies,Enabling,-37.81504,144.971554
+ARENA,2016/ARP034,NOJA Power Intelligent Switchgear Project,Enabling,-27.452209,153.102342
+ARENA,2016/ARP037,Horizon Power Business Model Pilot Project - Phase 1 (Highgarden),Enabling,-20.73535,116.845804
+ARENA,2016/ARP039,ElectraNet Energy Storage for Commercial Renewable Integration (ESCRI) Phase 2 (South Australia) - Deployment and Testing,Battery Storage,-34.945713,137.6644
+ARENA,2016/ARP040,Mt Alexander Waste to Energy Feasibility Study,Bioenergy,-37.0777,144.194465
+ARENA,2016/ARP041,"Feasibility study into dispatchable, cost effective power from forest and mill waste using the direct injection carbon engine (bioDICE)",Bioenergy,-37.285059,148.093594
+ARENA,2016/ARP044,Feasibility Study into Mt Piper Hybrid W2E Project,Bioenergy,-33.350808,150.029833
+ARENA,2016/ARP046,Distributed Energy Exchange (deX),Enabling,-38.268034,145.202515
+ARENA,2016/ARP048,P2P-DLT: A virtual trial of peer-to-peer energy trading including an assessment of the applicability of distributed ledger technology,Enabling,-33.862541,151.207925
+ARENA,2016/ARP050,Control and manage the moisture content of woody biomass to create certainty in the quality and supply for bioenergy,Bioenergy,-26.720072,153.070198
+ARENA,2016/ARP055,Sea Box Container Roll Out Warehousing System - Photovoltaic (CROWS-PV),Solar PV,-35.326619,149.17166
+ARENA,2016/ARP058,Tidal Energy in Australia ?ö?ç?? Assessing Resource and Feasibility to Australia?ö?ç?ûs Future Energy Mix,Marine,-42.913131,147.340109
+ARENA,2016/ARP060,RayGen PV Ultra Series B Equity Investment Opportunity,Solar PV,-20.70871,116.766019
+ARENA,2016/ARP063,The Enerverter (Project Aztec),Enabling,-32.896487,151.704364
+ARENA,2016/ARP065,EnergyAustralia South Australian Pumped Hydro Energy Storage (PHES) Feasibility Study,Pumped Hydro Energy Storage (PHES),-32.494405,137.788572
+ARENA,2016/ARP066,SunSHIFT Pre-Commercial Deployment,Solar PV,-18.860024,142.671841
+ARENA,2016/ARP067,PV Penetration Project,Enabling,-27.471183,153.023771
+ARENA,2017/ARP007,Power to Gas Demonstration,Hydrogen,-33.836585,151.208711
+ARENA,2017/ARP009,Snowy Hydro Limited's Project 2.0 Feasibility Study,Pumped Hydro Energy Storage (PHES),-36.227936,149.135268
+ARENA,2017/ARP011,Hornsdale Wind Farm Stage 2 (HWF2) FCAS Trial,Wind,-33.042569,138.52555
+ARENA,2017/ARP012,Augmenting the Tasmanian Hydropower System ?ö?ç?? feasibility studies,Pumped Hydro Energy Storage (PHES),-42.090468,147.066033
+ARENA,2017/ARP013,Open Source Grid Integration Model for the National Electricity Market,Enabling,-35.256599,149.115595
+ARENA,2017/ARP061,Australian Energy Storage Council Research and Report,Battery Storage,-35.363346,149.09854
+ARENA,2017/ARP062,UTS ISF Renewable Energy and Load Management (REALM) Stage 1 - Study,Enabling,-33.879844,151.197498
+ARENA,2017/ARP063,"Tasmanian Pumped-Hydro Opportunities - Concept study of pumped-hydro opportunities in Tasmania, including conversion of existing hydro generators and new installations",Pumped Hydro Energy Storage (PHES),-42.883751,147.331697
+ARENA,2017/ARP064,Intercast&Forge Demand Response SA,Enabling,-34.844548,138.573395
+ARENA,2017/ARP065,Flow Power Demand Response NSW,Enabling,-37.812666,145.064732
+ARENA,2017/ARP066,G.James Glass and Aluminium - a demonstration of medium-scale solar on industrial roof-tops can be effectively integrated into the distribution network,Solar PV,-27.376719,153.073354
+ARENA,2017/ARP067,Musselroe Wind Farm FCAS Trial,Wind,-40.760955,148.036404
+ARENA,2017/ARP068,United Energy Dynamic Voltage Management Demand Response (Product 2),Enabling,-37.891907,145.143102
+ARENA,2017/ARP070,AGL Energy Application for Demand Response in NSW,Enabling,-33.862643,151.207977
+ARENA,2017/ARP071,A Roadmap for Concentrated Solar Thermal (CST) Power Generation in Australia,Solar Thermal,-43.153095,146.866158
+ARENA,2017/ARP073,Establishing an expanded role for Tasmania in the Future NEM as the ?ö?ç?úBattery of the Nation?ö?ç?ÿ,Pumped Hydro Energy Storage (PHES),-42.883751,147.331697
+ARENA,2017/ARP074,MSM Milling Biomass Fuel Switch Project,Bioenergy,-33.186889,148.689538
+ARENA,2017/ARP075,EnerNOC Demand Response NSW,Enabling,-37.799115,144.966908
+ARENA,2017/ARP076,EnerNOC Demand Response VIC,Enabling,-37.816126,144.957872
+ARENA,2017/ARP077,Energy Australia Demand Response NSW,Enabling,-37.799115,144.966908
+ARENA,2017/ARP078,Energy Australia Demand Response VIC and SA,Enabling,-37.814778,144.962854
+ARENA,2017/ARP079,Powershop Australia is developing a behavioural demand response program (Powershop DR Program) utilising a bespoke mobile app notification system directed to Victorian residential retail customers.,Enabling,-37.799115,144.966908
+ARENA,2017/ARP080,Social Access Solar Gardens,Solar PV,-33.879844,151.197498
+ARENA,2017/ARP081,Pooled Energy Demand Management and Modulation.,Enabling,-33.787723,151.201118
+ARENA,2017/ARP082,Kidston Stage 2 Project,Pumped Hydro Energy Storage (PHES),-18.868118,144.154491
+ARENA,2017/RND001,Accelerating industrial solar cells efficiency by development of plasma-enhanced chemical vapour deposition (PECVD) - based metal oxides,Solar PV,-33.910275,151.22337
+ARENA,2017/RND002,Metallised Encapsulant for Silicon PV Modules: A Path to Reduced LCOE for PV,Solar PV,-33.910275,151.22337
+ARENA,2017/RND003,Improving World-Record Commercial High-Efficiency n-type Solar Cells through Recombination Analysis and Innovative Passivation,Solar PV,-33.910275,151.22337
+ARENA,2017/RND004,Hydrogenated bifacial PERL Silicon PV Cells with laser doping and plated contacts R&D Project,Solar PV,-33.910275,151.22337
+ARENA,2017/RND005,Hydrogenated and Hybrid Heterojunction p-type Silicon PV Cells R&&D Project,Solar PV,-33.910275,151.22337
+ARENA,2017/RND006,"Development of Beyond 20% Efficiency Kesterite (CZTSSe) Solar Cells: win the PV race with sustainable low-cost, low-toxic and stable materials.",Solar PV,-33.910275,151.22337
+ARENA,2017/RND007,Advanced high-efficiency silicon solar cells employing innovative atomic scale engineered surface and contact passivation layers,Solar PV,-33.910275,151.22337
+ARENA,2017/RND008,Next Generation Silicon sub-cells for high efficiency III-V/Si multi-junction solar cells,Solar PV,-33.910275,151.22337
+ARENA,2017/RND009,Integrating industrial black silicon with high efficiency multicrystalline solar cells,Solar PV,-33.910275,151.22337
+ARENA,2017/RND010,Development of novel hydrogen trapping techniques for breakthrough Si casting and wafering technologies,Solar PV,-33.910275,151.22337
+ARENA,2017/RND011,Efficient Adamantine Thin-Film on Silicon Tandem Cells: The Next Step in Commercial Cell Evolution,Solar PV,-33.910275,151.22337
+ARENA,2017/RND012,Manufacturing of Printed Perovskite PV Modules,Solar PV,-37.907634,145.133033
+ARENA,2017/RND013,Developing a New Type of High Efficiency Building Integrated PV Cell R&D Project,Solar PV,-37.915956,145.138736
+ARENA,2017/RND014,Bringing All-Polymer Solar Cells Closer to Commercialization,Solar PV,-37.915956,145.138736
+ARENA,2017/RND015,Next Generation Industrial Bifacial Silicon Solar Cells,Solar PV,-35.275111,149.121036
+ARENA,2017/RND016,Advanced Silicon Solar Cells by DESIJN (Deposited Silicon Junctions),Solar PV,-35.275111,149.121036
+ARENA,2017/RND017,Driving Increased Efficiency and Reliability in Silicon Photovoltaics - from ingots to modules,Solar PV,-35.275111,149.121036
+ARENA,2017/RND018,Monolithic perovskite ?ö?ç?? silicon Tandem Cells: Towards Commercial Reality,Solar PV,-35.275111,149.121036
+ARENA,2017/RND019,Development of Stable Electrodes for Perovskite Solar Cells,Solar PV,-35.275111,149.121036
+ARENA,2017/RND020,Tandem PV Micro Concentrator,Solar PV,-35.275111,149.121036
+ARENA,2018/ARP001,Gannawarra Energy Storage System (GESS),Battery Storage,-35.735401,143.741262
+ARENA,2018/ARP002,Simply Energy Virtual Power Plant (VPPX) Project,Solar PV,-37.799115,144.966908
+ARENA,2018/ARP003,EJ004 Solar Rooftop Electricity Retailer,Solar PV,-37.826378,144.992948
+ARENA,2018/ARP004,South Australian Regional Electric Vehicle Adoption Program,Enabling,-33.883006,151.159406
+ARENA,2018/ARP005,Latrobe Valley Microgrid - Feasibility Assessment,Enabling,-28.410183,153.372733
+ARENA,2018/ARP006,SOURCE Hydropanel Demonstration Project,Solar PV,-33.885842,151.200362
+ARENA,2018/ARP007,PICAC Narre Warren - Net Zero Energy Facility,Geothermal,-38.026706,145.306667
+ARENA,2018/ARP008,Jandakot Commercial Hybrid Energy H2 Microgrid (ATCO H2 Microgrid),Hydrogen,-32.11384,115.870271
+ARENA,2018/ARP009,Ballarat Terminal Station Battery Energy Storage System (BESS).,Battery Storage,-37.846589,144.980282
+ARENA,2018/ARP010,NSW Schools Energy Productivity Program (SEPP),Solar PV,-27.438944,153.030432
+ARENA,2018/ARP011,Development of a Proposed Performance Standard for a Battery Storage System connected to a Domestic/Small Commercial Solar PV System,Battery Storage,-37.814288,144.940212
+ARENA,2018/ARP012,Lake Bonney BESS,Battery Storage,-37.737835,140.387409
+ARENA,2018/ARP013,Hardwood Residue Bio-refinery Feasibility Study,Bioenergy,-31.589167,152.725396
+ARENA,2018/ARP014,Phase 2 of EnergyAustralia South Australian Pumped Hydro Energy Storage Project,Pumped Hydro Energy Storage (PHES),-32.937262,137.572023
+ARENA,2018/ARP015,Hydro Tasmania: Repurposing the Tarraleah hydropower scheme for the future electricity market - Feasibility Study,Pumped Hydro Energy Storage (PHES),-42.090468,147.066033
+ARENA,2018/ARP016,Middleback Ranges Pumped Hydro Energy Storage Project Pre-feasibility Study,Pumped Hydro Energy Storage (PHES),-32.998384,137.13841
+ARENA,2018/ARP017,Indra Monash Smart Microgrid Project,DER Integration,-37.911103,145.134735
+ARENA,2018/ARP018,Tasmanian and Victorian Second Bass Strait Interconnector Feasibility Study,Other,-42.8587,147.291034
+ARENA,2018/ARP019,Solpod Solar PV Demonstration Project,Solar PV,-37.852254,144.972973
+ARENA,2018/ARP020,Residential heat pump study,Geothermal,-33.730327,150.837166
+ARENA,2018/ARP034,Climate Council Cities Power Partnership,Other,-37.799115,144.966908
+ARENA,2018/ARP042,Shoalhaven Pumped Hydro Expansion Opportunity Feasibility Study,Pumped Hydro Energy Storage (PHES),-35.080833,150.496305
+ARENA,2018/ARP070,Fulcrum3D CloudCAM Solar Forecasting for the NEM,Other,-18.887977,144.141667
+ARENA,2018/ARP076,Business Renewables Centre Australia,Market data and information,-33.885153,151.19785
+ARENA,2018/ARP082,BMS-Inverter Hybrid Project,Enabling,-37.828074,144.996186
+ARENA,2018/ARP096,Demand Management for Replacement Needs,Demand Response (DR),-33.868851,151.209332
+ARENA,2018/ARP104,"Mt Piper Energy Recovery Project, Financial Investment Decision Study",Bioenergy,-33.86441,151.208287
+ARENA,2018/ARP110,Hydrostor Advanced Compressed Air Energy Storage South Australia Project,Other,-35.258902,138.889833
+ARENA,2018/ARP125,Chargefox Electric Vehicle Charging Network Project,Enabling,-36.74334,145.591542
+ARENA,2018/ARP126,Kwinana Waste to Energy,Bioenergy,-32.224376,115.775843
+ARENA,2018/ARP127,Commercialisation of renewable crude oil production from wastewater treatment plant waste,Bioenergy,-23.809176,151.147208
+ARENA,2018/ARP128,Accelerating the growth development of energy monitoring for solar households and small businesses.,Enabling,-33.893303,151.205083
+ARENA,2018/ARP129,Powercor DER Hosting Capacity Study,DER Integration,-37.818503,144.96115
+ARENA,2018/ARP130,Dynamic Limits DER Feasibility Study,DER Integration,-30.761155,152.719015
+ARENA,2018/ARP131,CSIRO National Low-Voltage Feeder Taxonomy Study,DER Integration,-32.884623,151.728348
+ARENA,2018/ARP132,Optimal DER Scheduling for Frequency Stability Study,DER Integration,-42.913131,147.340109
+ARENA,2018/ARP133,Pricing and Integration of Distributed Energy Resources Study,DER Integration,-27.243762,153.108347
+ARENA,2018/ARP134,ANU - Community Models for Deploying and Operating Distributed Energy Resources Study,DER Integration,-35.275111,149.121036
+ARENA,2018/ARP135,Advanced Planning of PV-Rich Distribution Networks Study,DER Integration,-37.797724,144.96315
+ARENA,2018/ARP136,Gold Fields Demonstration of a high penetration renewable microgrid on an operating mine in WA (Agnew Renewable Energy Microgrid),Off grid,-29.550106,123.880192
+ARENA,2018/ARP138,Applied Electric Vehicles - Energy Freedom Solar Electric Vehicle Pilot Project,Electric vehicles,-37.899876,145.2477
+ARENA,2018/ARP139,UniWave200 King Island Project,Marine,-39.874088,143.936944
+ARENA,2018/ARP141,Tasmanian Pumped-Hydro Energy Storage Opportunities Stage 2,Pumped Hydro Energy Storage (PHES),-42.883751,147.331697
+ARENA,2018/ARP142,Toyota Ecopark Hydrogen Demonstration,Hydrogen,-37.827348,144.934149
+ARENA,2018/ARP143,Field Study of Virtual Synchronous Generator at Gullen Range Wind Farm,System Security,-34.601621,149.463308
+ARENA,2018/ARP144,Metro Advertising Revenue Funded Electric Vehicle Charging Trial Project,Electric vehicles,-33.865725,151.2017
+ARENA,2018/ARP145,"Measurement guidelines for multi-junction solar cells with perovskite layers, CSIRO PV Performance Laboratory",Solar PV,-32.891803,151.708914
+ARENA,2018/ARP153,Fringe of Grid Battery Microgrid for Port Gregory (WA) Wind & Solar Farm,Battery Storage,-28.188333,114.251389
+ARENA,2018/ARP154,"Publishing operating envelopes to the node to support the integration, orchestration and coordination of high-penetration DER in electricity distribution networks.",DER Integration,-35.277601,149.127344
+ARENA,2018/ARP155,Evoenergy - DER integration and automation project,DER Integration,-35.421564,149.072733
+ARENA,2018/ARP156,Demonstration projects of innovative grid-based power electronics technology applications to increase network DER hosting capacity and improve the quality of customer electricity supplies,DER Integration,-37.799115,144.966908
+ARENA,2018/ARP157,"SA Power Networks, Advanced VPP grid integration",DER Integration,-34.942417,138.581863
+ARENA,2018/ARP158,Enhanced Reliability through Short Time Resolution Data around Voltage Disturbances,DER Integration,-33.893303,151.205083
+ARENA,2018/ARP160,Windlab LIDAR for Wind Forecast Projects,Market data and information,-36.397565,141.746844
+ARENA,2018/ARP161,Skycam and Multi-Model Solar Forecasting Project,Market data and information,-33.087297,149.477699
+ARENA,2018/ARP163,Wind Forecasting Demonstration Project,Market data and information,-37.831698,143.888435
+ARENA,2018/ARP164,Solcast nowcasting solutions for solar farms and the Australian energy sector,Market data and information,-33.87109,151.161166
+ARENA,2018/ARP165,Advisian Wind and Solar Forecasting for the NEM Project,Market data and information,-19.244657,146.623611
+ARENA,2018/ARP166,DNV GL ?ö?ç?? Multi-Model and Machine Learning Wind Forecast Project,Market data and information,-37.262222,143.07883
+ARENA,2018/ARP167,"Wind Forecasting for the NEM at Pacific Hydro's Clements Gap, Crowlands and Taralga Wind Farms",Market data and information,-33.507672,138.11096
+ARENA,2018/ARP168,Vestas Wind Forecasting for the NEM Project,Market data and information,-37.737778,140.388154
+ARENA,2018/ARP169,Aeolius Wind Systems Wind Forecasting Demonstration Project,Market data and information,-32.043723,115.772749
+ARENA,2018/ARP170,Proa Analytics Solar Forecasts Project,Market data and information,-18.898722,144.144441
+ARENA,2018/ARP171,"A2EP Renewable energy for process heat, Australia-wide, Replacing non-renewable systems",Industrial heating and cooling,-33.880287,151.197948
+ARENA,2018/ARP172,Alinta Solar Gas Hybrid Project,Solar PV,-22.413426,117.668162
+ARENA,2018/ARP176,BT Imaging LIS-M1 Solar Module Inspection System Project,Solar PV,-33.899001,151.208608
+ARENA,2018/ARP177,Conversion of remote crude oil beam pumps to solar & battery project,Solar PV,-29.628324,135.471188
+ARENA,2018/ARP178,"Bulwer Island, Queensland, Renewable Hydrogen Production and Refuelling Project",Hydrogen,-27.418528,153.132224
+ARENA,2018/IEP001,Participation in International Engagement Agency (IEA) Technology Collaboration Program (TCP) for Demand Side Management,Enabling,-37.915956,145.138736
+ARENA,2018/IEP002,Bioenergy Australia paricipation in the International Energy Agency (IEA) Technology Collaboration Programme (TCP) on Bioenergy,Bioenergy,-35.287931,149.193184
+ARENA,2018/IEP003,Mission Innovation Challenge - Off-Grid Access to Electricity,Enabling,-33.910275,151.22337
+ARENA,2018/IEP004,International Energy Agency (IEA) Technology Collaboration Programme (TCP) - Solar Heating and Cooling,Solar Thermal,-33.910275,151.22337
+ARENA,2018/IEP005,International Energy Agency Technology Collaboration Programme  -  PV Power Systems,Solar PV,-33.910275,151.22337
+ARENA,2018/IEP006,"Australian Association of Hydrogen Energy (AAHE), International Energy Agency (IEA) Hydrogen Technology Collaboration Program (TCP), Promoting hydrogen implementation and utilization in Australia through International collaboration.",Hydrogen,-31.977744,115.935524
+ARENA,2018/IEP007,Participation in Mission Innovation - Converting Sunlight Innovation Challenge,Solar Thermal,-34.921644,138.599011
+ARENA,2018/IEP008,Participation in International Engagement Agency (IEA) Hydropower Technology Collaboration Program,Enabling,-42.883751,147.331697
+ARENA,2018/IEP009,International Energy Agency (IEA) - SolarPACES (Solar Power and Chemical Energy Systems) Technology Collaboration Program (TCP),Solar Thermal,-32.884623,151.728348
+ARENA,2018/IEP010,International Energy Agency (IEA) - Ocean Energy Systems -Technology Collaboration Program (TCP),Marine,-42.905597,147.322505
+ARENA,2018/IEP011,Missions Innovation Challenge - Smart Grids,Enabling,-32.884623,151.728348
+ARENA,2018/IEP012,Missions Innovation Challenge - Affordable Heating and Cooling,Enabling,-32.884623,151.728348
+ARENA,2018/RND001,CSIRO Methane Fuel Carrier R&D Project,Hydrogen,-37.920354,145.131863
+ARENA,2018/RND002,CSIRO Hydrogen to Ammonia R&D Project,Hydrogen,-32.780821,151.800326
+ARENA,2018/RND003,Macquarie University Biological Hydrogen Production R&D Project,Hydrogen,-33.777181,151.109362
+ARENA,2018/RND004,ANU Hydrogen Generation by Electro-Catalytic Systems R&D Project,Hydrogen,-35.275111,149.121036
+ARENA,2018/RND005,ANU - Solar Hydrogen Generation R&D Project,Hydrogen,-35.275111,149.121036
+ARENA,2018/RND006,ANU Direct Water Electrolysis R&D Project,Hydrogen,-35.275111,149.121036
+ARENA,2018/RND007,CSIRO Liquid Fuel Carrier R&D Project,Hydrogen,-37.907634,145.133033
+ARENA,2018/RND008,Monash Water splitting electrodes R&D Project,Hydrogen,-37.915956,145.138736
+ARENA,2018/RND009,Monash Ammonia production from renewables R&D Project,Hydrogen,-37.915956,145.138736
+ARENA,2018/RND010,RMIT University Melbourne Hydrogen Storage and Transport R&D Project,Hydrogen,-37.812604,144.965209
+ARENA,2018/RND011,University of Melbourne Hydrogen Fuelled Reciprocating Engines R&D Project,Hydrogen,-37.797724,144.96315
+ARENA,2018/RND012,QUT Hydrogen process R&D Project,Hydrogen,-27.477374,153.02864
+ARENA,2018/RND013,UWA Methanol from Syngas R&D Project,Hydrogen,-31.982184,115.81563
+ARENA,2018/RND014,UNSW Sydney Photovoltaic Electrolysis to Generate Hydrogen R&D Project,Hydrogen,-33.910275,151.22337
+ARENA,2018/RND015,UNSW Sydney Waste Biomass to Renewable Hydrogen R&D Project,Hydrogen,-33.910275,151.22337
+ARENA,2018/RND016,CSIRO Solar Thermochemical Hydrogen R&D Project,Hydrogen,-32.884623,151.728348
+ARENA,2019/ARP001,"East Rockingham Resource Recovery Facility (ERRRF), renewable energy production, energy sale, grid connection, aggregate and metal recycling, alternatives to residue disposal",Bioenergy,-32.223821,115.776698
+ARENA,2019/ARP002,Decentralised Energy Exchange (deX) Program: scaling common platform requirements for decentralised energy exchanges across Australia,Enabling,-37.812524,144.955295
+ARENA,2019/ARP003,AEMO Virtual Power Plant Demonstrations,Enabling,-37.817686,144.956804
+ARENA,2019/ARP004,"Element 25, Pilot studies for Intermittent Dynamic Electrowinning using renewable energy for The Butcherbird Project to produce high purity EMM and MnSO4.",Enabling,-31.954251,115.790054
+ARENA,2019/ARP005,Fast Cities - Creating a National Ultrafast EV Charging Infrastructure Network Project,Enabling,-27.466377,153.028973
+ARENA,2019/ARP007,United Energy - Voltage-Controlled Frequency Regulation System,Enabling,-37.891907,145.143102
+ARENA,2019/ARP008,Nectar Farms High Efficiency Off Grid Glasshouse Project.,Enabling,-37.014806,142.990871
+ARENA,2019/ARP009,Module Design for Lower Field Operating Temperature and Improved Yield,Solar PV,-33.910275,151.22337
+ARENA,2019/ARP010,Charge Together Australia - Phase 2,Enabling,-33.873831,151.205638
+ARENA,2019/ARP011,Dyno Nobel Expansion of Moranbah - Feasibility of Renewable (?ö?ç??Green?ö?ç?û) Hydrogen,Hydrogen,-21.804159,148.45144
+ARENA,2019/ARP012,National Energy Simulator Feasibility Study,Enabling,-37.799115,144.966908
+ARENA,2019/ARP013,Queensland Nitrates Feasibility Study for a Green Hydrogen and Ammonia Project,Hydrogen,-24.495486,149.656214
+ARENA,2019/ARP014,Wattwatchers - My Energy Marketplace Deployment Project,Enabling,-33.820587,151.184647
+ARENA,2019/ARP015,Loganholme Wastewater Treatment Plant Gasification Facility Demonstration Project,Bioenergy,-27.684444,153.189127
+ARENA,2019/ARP016,Allume Rooftop Solar Salvation Army Pilot Demonstration Project,Solar PV,-37.799115,144.966908
+ARENA,2019/ARP020,Mirvac - Net Zero Energy Homes,Hybrid,-37.845009,144.816682
+ARENA,2019/ARP021,Powerlink Cost-effective system strength in North Queensland study,Enabling,-27.376719,153.073354
+ARENA,2019/ARP022,Short Term Off-River Energy Storage Stage 2 (STORES-2) Study,Pumped Hydro Energy Storage (PHES),-35.287931,149.193184
+ARENA,2019/ARP023,"Rheem, Bringing South Australia's Hot Water Load Under Active Control",Solar PV,-33.80792,151.009361
+ARENA,2019/ARP024,AIRAH - The Affordable Heating and Cooling Innovation Hub (i-Hub),Enabling,-37.799115,144.966908
+ARENA,2019/ARP025,Advancing Renewables with PCM Thermal Energy Storage Project,Enabling,-34.977534,138.876733
+ARENA,2019/ARP026,"Hydro Tasmania, Battery of the Nation, Future State NEM analysis (phase 2)",Pumped Hydro Energy Storage (PHES),-42.889272,147.243283
+ARENA,2019/ARP027,BTPS 1 Pty Ltd - Transforming Industrial Rooftops with the Bright Thinkers Power Station (BTPS),Solar PV,-33.915542,150.811792
+ARENA,2019/ARP028,Rooftop Concentrated Solar Thermal for Hospital Heating/Cooling Demonstration Project,Solar Thermal,-36.423422,145.162247
+ARENA,2019/ARP030,Hornsdale Power Reserve Upgrade Project,Enabling,-33.085238,138.51773
+ARENA,2019/ARP034,ERM Power advancing renewables in the manufacturing sector project,Enabling,-27.438944,153.030432
+ARENA,2019/ARP035,Scaling up Environmental Upgrade Agreements across Australia,Enabling,-37.799115,144.966908
+ARENA,2019/ARP044,OMPS New England PHES Benefits Study,Pumped Hydro Energy Storage (PHES),-30.453268,151.282306
+ARENA,2019/ARP045,Frasers Property Australia Ne Zero Energy Homes,Solar PV,-33.854764,151.092774
+ARENA,2019/ARP046,Blending hydrogen into Victorian and South Australian gas infrastructure - Feasibility studies - AGIG,Hydrogen,-34.902545,138.589026
+ARENA,2019/ARP047,APA Renewable Methane Demonstration Project,Hydrogen,-25.806897,144.717486
+ARENA,2019/ARP048,The Hazer Process Demonstration Plant,Hydrogen,-32.124681,115.820232
+ARENA,2019/ARP052,Renewable Energy Hub - A Wholesale Renewable Energy Firming Marketplace Demonstration Project,Enabling,-37.799115,144.966908
+ARENA,2019/ARP054,"Renergi, Bioenergy, Collie, Waste to Energy through Pyrolysis",Bioenergy,-31.954251,115.790054
+ARENA,2019/ARP055,Yara Pilbara Renewable Ammonia Feasibility Study,Hydrogen,-20.623572,116.781627
+ARENA,2019/ARP056,Clean Energy Startup Support Programs Project,Solar PV,-33.885842,151.200362
+ARENA,2019/ARP057,"Enova Community Energy, Northern Rivers, Community Battery Storage and Peer to Peer Trading Platform",Battery Storage,-28.410183,153.372733
+ARENA,2019/ARP058,TransGrid; New England Renewable Energy Zone - Pilot for commercial development of transmission structure,Solar PV,-33.885842,151.200362
+ARENA,2019/ARP059,A2EP & Climate-KIC renewable energy for process heat opportunity study (phase 2),Industrial heating and cooling,-33.885842,151.200362
+ARENA,2019/ARP060,2019/ARP060 ?ö?ç?? Monash University (ClimateWorks Australia) ?ö?ç?? Industry ETI Establishment Phase Project,Hydrogen,-37.799115,144.966908
+ARENA,2019/ARP061,ActewAGL Realising Electric Vehicle-to-grid Services Project,Enabling,-35.287931,149.193184
+ARENA,2019/ARP062,Stanwell Hydrogen Mid/Large Scale Electrolysis Deployment Feasibility Study,Hydrogen,-27.438944,153.030432
+ARENA,2019/ARP064,Project GERI Feasibility Study,Hydrogen,-27.376719,153.073354
+ARENA,2019/ARP065,Solar Power Plant; Phase 1,Concentrated solar thermal,-37.847814,145.141276
+ARENA,2019/ARP067,University of Wollongong Investigation of the Impact and Management of Harmonic Distortion for Large Renewable Generators,Enabling,-34.321001,150.867928
+ARENA,2019/ARP069,Gridded Renewables Nowcasting Demonstration over South Australia,Enabling,-33.883006,151.159406
+ARENA,2019/CRD001,Building Integrated Photovoltaics (BIPV) Enabler,Enabling,-37.807664,144.965572
+ARENA,2019/CRD002,Pilot project to trial Solar F2D2 at University of Queensland?ö?ç?ûs Gatton Solar Farm,Large-scale solar,-27.559501,152.340454
+ARENA,2019/CRD003,Prototyping a Photoluminescence Imaging Tool for Testing of Fielded Solar Modules,Solar PV,-34.345705,144.454093
+ARENA,2019/CRD004,"University of South Australia, Mawson Lakes, Displacement of Gas by Thermal Energy Storage",Enabling,-34.808935,138.619776
+ARENA,2019/CRD005,"UNSW, Sydney, Launch of a photothermal absorption spectrometer for cost reduction in PV materials",Enabling,-33.958914,151.210492
+ARENA,2019/CRW001,PDS,Solar PV,-33.918985,151.230382
+ARENA,2019/CRW002,Lithium sulfur batteries,Battery Storage,-33.883355,151.200904
+ARENA,2019/CRW004,Solar Farm Fault Detection,Solar PV,-27.499431,153.011849
+ARENA,2019/CRW005,Kaiwen Sun,Solar PV,-33.918997,151.230297
+ARENA,2019/CRW006,Liquid-phase hydrogen carriers,Hydrogen,-33.883409,151.201004
+ARENA,2019/CRW007,UniSA PB,Solar Thermal,-34.808996,138.679884
+ARENA,2019/CRW008,Integrated load and generation forecasting for optimal storage system control,Enabling,-34.808996,138.679884
+ARENA,2019/CRW010,HydGene Renewables,Hydrogen,-33.774268,151.113445
+ARENA,2019/CRW011,BIPV tools,Solar PV,-37.807198,144.964939
+ARENA,2019/CRW012,Long Shi,Solar Thermal,-37.807198,144.964939
+ARENA,2019/CRW013,Next-generation integrated PV structures,Solar PV,-33.774368,151.113353
+ARENA,2019/CRW014,Outdoor Photoluminescence Imaging for Residential and Commercial Applications,Solar PV,-33.919038,151.230254
+ARENA,2019/CRW015,An integrated solar-hydrogen/solar thermal system for 100% heat and power supply to standalone applications (SHEL) - Workshop,Hydrogen,-37.807198,144.964939
+ARENA,2019/CRW016,Platypus Energy (formerly The Bucket Company),Enabling,-37.799986,144.959095
+ARENA,2019/CRW017,Good vibrations,Marine,-34.405902,150.878442
+ARENA,2020/ARP002,"Reactive Technologies, System Inertia Measurement Demonstration",Enabling,-37.818128,144.956663
+ARENA,2020/ARP003,Central West NSW Energy Zone: Detailed Scoping Study,Enabling,-33.885842,151.200362
+ARENA,2020/ARP007,"Monash University, Melbourne, Stability-Enhancing Measures for Weak Grids, Study",Enabling,-37.920354,145.131863
+ARENA, ,Least-cost carbon abatement modelling,Hybrid and enabling technologies,-37.797121,144.965009
+CEFC,1,,Lighting,-32.181732,152.521585
+CEFC,2,,Lighting,-28.865608,153.046767
+CEFC,3,,"HVAC, Monitoring Systems",-35.301242,148.220095
+CEFC,4,,"HVAC, Monitoring Systems",-27.46667,153.027569
+CEFC,5,,Solar PV,-37.05093,143.740589
+CEFC,6,,Generation / Distribution,-38.179354,146.565379
+CEFC,7,,Lighting,-35.109543,147.37148
+CEFC,8,,Refrigeration,-33.74335,150.650621
+CEFC,9,,Lighting,-33.966036,151.134925
+CEFC,10,,Lighting,-42.975533,147.311387
+CEFC,11,,Cogen,-33.884601,151.200555
+CEFC,12,,Refrigeration,-33.189867,138.296968
+CEFC,13,,Lighting,-37.06431,144.21876
+CEFC,14,,Refrigeration,-35.970039,146.405838
+CEFC,15,,Bioenergy,-27.583515,152.835156
+CEFC,16,,Cogen,-35.116834,147.371913
+CEFC,17,,Industrial Process Improvement,-38.184628,146.447718
+CEFC,18,,Lighting,-38.385799,142.481364
+CEFC,19,,Bioenergy,-32.104001,115.898406
+CEFC,20,,Bioenergy,-27.755753,151.54246
+CEFC,21,,Solar PV,-27.450353,153.044612
+CEFC,22, ,Solar PV,-29.569571,149.866889
+CEFC,23, ,Wind,-34.423533,149.825854
+CEFC,24, ,Other,-38.194544,144.292936
+CEFC,25, ,Wind,-38.04902,142.191548
+CEFC,26, ,Wind,-38.364133,141.625604
+CEFC,27, ,Wind,-35.095368,149.578948
+CEFC,28, ,Generation / Distribution,-21.885205,147.965887
+CEFC,29, ,Lighting,-38.135255,145.85972
+CEFC,30, ,Wind,-37.262571,143.078476
+CEFC,31, ,Solar PV,-23.768081,133.86924
+CEFC,32, ,Solar PV,-23.547556,145.31878
+CEFC,33, ,Solar PV,-20.545776,147.805284
+CEFC,34, ,Cogen,-33.884601,151.200555
+CEFC,35, ,Wind,-38.364133,141.625604
+CEFC,36, ,"HVAC, Monitoring Systems",-27.616232,152.761909
+CEFC,37, ,Solar PV,-25.231819,130.99133
+CEFC,38, ,Solar PV,-25.539867,119.322948
+CEFC,39, ,Solar PV,-37.798049,144.961382
+CEFC,40, ,Lighting,-33.966757,151.106502
+CEFC,41, ,Bioenergy,-27.379838,153.093001
+CEFC,42, ,Hybrid,-37.812389,144.955214
+CEFC,43, ,"HVAC, Monitoring Systems",-33.864307,151.21124
+CEFC,44, ,Solar PV,-37.910611,145.136159
+CEFC,45, ,Wind,-35.275739,149.127173
+CEFC,46, ,Lighting,-37.815067,144.966903
+CEFC,47, ,Cogen,-38.146158,144.358659
+CEFC,48, ,Solar PV,-23.446584,144.359097
+CEFC,49, ,Solar PV,-27.402254,151.644759
+CEFC,50, ,Solar PV,-18.881092,144.148236
+CEFC,51, ,Solar PV,-34.317322,146.120701
+CEFC,52, ,Solar PV,-32.218154,148.254496
+CEFC,53, ,Solar PV,-33.112787,148.076376
+CEFC,54, ,Bioenergy,-33.837142,150.904475
+CEFC,55, ,Wind,-29.705883,151.425172
+CEFC,56, ,Solar PV,-34.926534,138.590939
+CEFC,57, ,"HVAC, Monitoring Systems",-33.891703,151.14899
+CEFC,58, ,Solar PV,-33.872024,151.209647
+CEFC,59, ,"HVAC, Monitoring Systems",-33.865987,151.210318
+CEFC,60,  ,Wind,-20.766637,145.016613
+CEFC,61, ,Wind,-29.011055,114.968421
+CEFC,62, ,Wind,-38.747824,145.949483
+CEFC,63, ,Wind,-33.308612,138.731354
+CEFC,64, ,Solar PV,-32.889732,151.642973
+CEFC,65, ,Solar PV,-34.600206,142.768701
+CEFC,66, ,Bioenergy,-32.21009,115.777163
+CEFC,67, ,Wind,-33.020383,149.608327
+CEFC,68, ,Wind,-32.407065,149.041287
+CEFC,69, ,"HVAC, Monitoring Systems",-32.006237,115.894436
+CEFC,70, ,Vehicles,-38.019506,145.230317
+CEFC,71, ,"HVAC, Monitoring Systems",-37.817804,144.959826
+CEFC,72, ,Solar PV,-19.425386,146.716018
+CEFC,73, ,Solar PV,-33.950786,150.923143
+CEFC,74, ,"HVAC, Monitoring Systems",-33.885842,151.200362
+CEFC,75, ,Wind,-32.587298,137.555207
+CEFC,76, ,Solar PV,-35.735004,143.779441
+CEFC,77, ,Solar PV,-20.502245,147.769823
+CEFC,78, ,Other,-38.03505,145.197858
+CEFC,79, ,Bioenergy,-32.251606,115.775352
+CEFC,80, ,Other,-37.821786,144.966323
+CEFC,81, ,Solar PV,-18.881092,144.148236
+CEFC,82, ,Other,-33.836893,151.206915
+CEFC,83, ,Solar PV,-27.509915,152.996363
+CEFC,84, ,Storage,-21.049463,118.895126
+CEFC,85, ,Wind,-33.005808,137.575277
+CEFC,86, ,Other,-37.809171,145.006413
+CEFC,87, ,Other,-33.821678,151.195951
+CEFC,88, ,Solar PV,-22.839229,147.58104
+CEFC,89,  ,Solar PV,-22.839229,147.58104
+CEFC,90,  ,Solar PV,-36.159627,145.473816
+CEFC,91, ,Solar PV,-27.402387,151.644748
+CEFC,92, ,Solar PV,-20.493809,147.772654
+CEFC,93, ,Wind,-41.788606,145.049119
+CEFC,94, ,Lighting,-33.848812,151.072314
+CEFC,95, ,Industrial Process Improvement,-33.871194,151.203802
+CEFC,96, ,Wind,-34.842222,149.390957
+CEFC,97, ,Other,-34.928635,138.605095
+CEFC,98, ,Solar PV,-34.742484,145.95542
+CEFC,99, ,Other,-37.817913,145.115491
+CEFC,100, ,Hybrid,-37.811374,144.954868
+CEFC,101, ,Hybrid,-37.811374,144.954868
+CEFC,102, ,Solar PV,-35.017937,142.300167
+CEFC,103, ,Solar PV,-32.35756,149.468205
+CEFC,104, ,Other,-33.28117,149.099896
+CEFC,105, ,Other,-34.042374,150.762083
+CEFC,106, ,Wind,-32.587298,137.555207
+CEFC,107, ,Storage,-37.852254,144.972973
+CEFC,108, ,Other,-38.193946,144.294566
+CEFC,109, ,Solar PV,-33.864781,151.21168
+CEFC,110, ,"HVAC, Monitoring Systems",-35.419627,149.063263
+CEFC,111, ,Storage,-27.509915,152.996363
+CEFC,112, ,"HVAC, Monitoring Systems",-33.848696,151.073162
+CEFC,113, ,Solar PV,-33.112248,148.078414
+CEFC,114, ,Wind,-35.275739,149.127173
+CEFC,115, ,Other,-37.817913,145.115491
+CEFC,116, ,Solar PV,-33.380429,147.678753
+CEFC,117, ,Other,-33.884383,151.210843
+CEFC,118, ,Lighting,-33.866837,151.210076
+CEFC,119, ,Other,-33.865169,151.205786
+CEFC,120, ,Other,-33.872176,151.209109
+CEFC,121, ,Solar PV,-20.493809,147.772654
+CEFC,122, ,Solar PV,-27.467285,153.029521
+CEFC,123, ,Storage,-33.085409,138.522006
+CEFC,124, ,other,-37.808585,144.971486
+CEFC,125, ,Vehicles,-37.801379,144.942474
+CEFC,126, ,Other,-33.248657,149.115232
+CEFC,127, ,other,-33.865858,151.211738
+CEFC,128, ,Solar PV,-32.272606,148.649922
+,, ,,,
