@@ -78,6 +78,57 @@ def load_world_trade() -> pd.DataFrame:
     return out
 
 
+def load_apac_trade() -> pd.DataFrame:
+    """Australia-as-reporter, partner = each of (CHN, KOR, THA, MYS, SGP, VNM).
+
+    Used to build an Aus->APAC aggregate (Japan + six above). Coal HS 2701
+    is reliable AUS-reported. For LNG (HS 2711) AUS suppresses bilateral
+    values via firm-level confidentiality, so we substitute partner-import
+    mirror data (data/raw/comtrade_apac_lng_mirror.csv) when it is larger,
+    same logic as JPN-import mirror in fetch_comtrade.py.
+    """
+    path = RAW / "comtrade_aus_to_apac.csv"
+    if not path.exists():
+        return pd.DataFrame(columns=["year"])
+    df = pd.read_csv(path)
+    commodity_map = {
+        "coal": "coal",
+        "natural_gas_lng_gaseous": "lng",
+    }
+    df["series"] = df["commodity"].map(commodity_map)
+    df = df.dropna(subset=["series"])
+
+    # Substitute LNG mirror data per-(year, partner) where it is larger.
+    mirror_path = RAW / "comtrade_apac_lng_mirror.csv"
+    if mirror_path.exists():
+        mirror = pd.read_csv(mirror_path)[["year", "reporter_iso", "value_usd"]]
+        mirror = mirror.rename(
+            columns={"reporter_iso": "partner_iso", "value_usd": "value_mirror"}
+        )
+        lng_mask = df["series"] == "lng"
+        lng = df.loc[lng_mask].merge(
+            mirror, on=["year", "partner_iso"], how="left"
+        )
+        lng["value_usd"] = lng[["value_usd", "value_mirror"]].max(axis=1)
+        df = pd.concat([df.loc[~lng_mask], lng.drop(columns="value_mirror")],
+                       ignore_index=True)
+
+    # Sum across the six APAC partners per (year, series).
+    agg = (
+        df.groupby(["year", "series"])["value_usd"]
+        .sum(min_count=1)
+        .reset_index()
+    )
+    out = agg.pivot(index="year", columns="series", values="value_usd").reset_index()
+    out = out.rename(
+        columns={
+            "coal": "export_coal_usd_to_apac_others",
+            "lng": "export_lng_usd_to_apac_others",
+        }
+    )
+    return out
+
+
 def load_china_gdp() -> pd.DataFrame:
     """Add Chinese GDP. The post-2001 China demand shock is the single
     most important control for any Aus->World energy regression - it
@@ -101,6 +152,14 @@ def build_world_panel() -> pd.DataFrame:
     # Add Chinese GDP control
     chn = load_china_gdp()
     df = df.merge(chn, on="year", how="left")
+
+    # Add APAC (CHN+KOR+THA+MYS+SGP+VNM) aggregate columns
+    apac_others = load_apac_trade()
+    if not apac_others.empty:
+        df = df.merge(apac_others, on="year", how="left")
+    else:
+        df["export_coal_usd_to_apac_others"] = np.nan
+        df["export_lng_usd_to_apac_others"] = np.nan
 
     # Floor the world value at the consolidated bilateral. Reasoning:
     # the world total can never be less than what we know went to
@@ -136,6 +195,29 @@ def build_world_panel() -> pd.DataFrame:
         df["export_coal_usd_to_exjpn"].fillna(0)
         + df["export_lng_usd_to_exjpn"].fillna(0)
     )
+
+    # APAC aggregate = Japan + 6 others (CHN+KOR+THA+MYS+SGP+VNM).
+    # Japan uses the consolidated bilateral (max of AUS-export and JPN-import
+    # mirror) so LNG isn't censored. The other six use AUS-as-reporter only.
+    df["export_coal_usd_to_apac"] = (
+        df["export_coal_usd_to_jpn"].fillna(0)
+        + df["export_coal_usd_to_apac_others"].fillna(0)
+    )
+    df["export_lng_usd_to_apac"] = (
+        df["export_lng_usd_to_jpn"].fillna(0)
+        + df["export_lng_usd_to_apac_others"].fillna(0)
+    )
+    df["export_energy_usd_to_apac"] = (
+        df["export_coal_usd_to_apac"] + df["export_lng_usd_to_apac"]
+    )
+    # NaN out APAC totals in years where neither Japan nor APAC-others has data
+    no_apac = (
+        df[["export_coal_usd_to_jpn", "export_coal_usd_to_apac_others",
+            "export_lng_usd_to_jpn",  "export_lng_usd_to_apac_others"]].isna().all(axis=1)
+    )
+    df.loc[no_apac, "export_energy_usd_to_apac"] = np.nan
+    df.loc[no_apac, "export_coal_usd_to_apac"] = np.nan
+    df.loc[no_apac, "export_lng_usd_to_apac"] = np.nan
 
     # Drop synthesized energy totals in years where all components are missing.
     df.loc[
